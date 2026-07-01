@@ -6,23 +6,45 @@
 
 ## 👨‍💻 About Me
 
-- 🎓 Transitioning from **Communications** to **Software Engineering**
-- 🌱 Currently learning **Go, JavaScript, React, Python, TypeScript, Git & GitHub**
+I'm a **Communication and Digital Media professional** transitioning into **Software Engineering**, with a growing passion for building scalable digital solutions that solve real-world problems.
+
+My background in strategic communication, technical writing, digital marketing, and stakeholder engagement has strengthened my ability to translate complex ideas into clear, user-focused experiences. Today, I'm applying those strengths to software development while continuously expanding my expertise in modern web technologies and AI.
+
+- 🌱 Currently learning **Golang, JavaScript, React, Python, Node.js, Git & GitHub**
+- 💻 Interested in **Backend Development, AI, APIs, and Cloud Technologies**
 - ✍️ Experienced in **Technical Writing, Digital Communications, and Content Strategy**
-- 💡 Passionate about Backend Development, AI, and Open Source
-- 🤝 Open to internships, collaborations, and software engineering opportunities
-- 📫 Reach me at: **okelloodhiambocvs@gmail.com**
+- 🤝 Open to internships, freelance projects, open-source collaborations, and graduate software engineering opportunities
+- 🌍 Portfolio: **https://okello-odhiambo.vercel.app/**
+- 📫 Email: **okelloodhiambocvs@gmail.com**  
+
+## 🌐 Connect with Me
 
 <p align="center">
-<a href="https://www.linkedin.com/in/okello-odhiambo/">
-<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
-</a>
+  <a href="https://okello-odhiambo.vercel.app/" target="_blank">
+    <img src="https://img.shields.io/badge/Portfolio-Visit%20Website-0A66C2?style=for-the-badge&logo=vercel&logoColor=white" />
+  </a>
 
-<a href="mailto:okelloodhiambocvs@gmail.com">
-<img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
-</a>
+  <a href="https://www.linkedin.com/in/okello-odhiambo/" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
 
-<a href="https://github.com/okelloodhiambocvs">
-<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
-</a>
+  <a href="https://x.com/okelloodhiambocvs" target="_blank">
+    <img src="https://img.shields.io/badge/X-Follow-000000?style=for-the-badge&logo=x&logoColor=white" />
+  </a>
+
+  <a href="https://github.com/okelloodhiambocvs" target="_blank">
+    <img src="https://img.shields.io/badge/GitHub-Follow-181717?style=for-the-badge&logo=github&logoColor=white" />
+  </a>
+
+  <a href="mailto:okelloodhiambocvs@gmail.com">
+    <img src="https://img.shields.io/badge/Email-Contact-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+  </a>
 </p>
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=okelloodhiambocvs&label=Profile%20Views&color=0e75b6&style=flat" alt="Profile Views" />
+</p>
+
+> *"Technology is most impactful when combined with effective communication and a commitment to solving real-world challenges."* 🚀
+>
+> 
