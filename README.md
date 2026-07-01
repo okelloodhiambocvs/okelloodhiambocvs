@@ -1,366 +1,140 @@
-<!-- ========================================= -->
-<!-- 🎨 CUSTOM HERO BANNER (ANIMATED) -->
-<!-- ========================================= -->
+<!-- ===================================================================================== -->
+<!--                                OKELLO ODHIAMBO                                       -->
+<!--                         SOFTWARE ENGINEER | GO ENTHUSIAST                             -->
+<!-- ===================================================================================== -->
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0a192f,50:000000,100:1b263b&height=300&section=header&text=Okello%20Odhiambo&fontSize=44&fontColor=ffffff&animation=fadeIn&fontAlignY=35"/>
+  <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=320&color=gradient&customColorList=12,20,24&text=Okello%20Odhiambo&fontSize=50&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Software%20Engineer%20%7C%20Go%20Backend%20Enthusiast%20%7C%20Technical%20Writer&descAlignY=58&descSize=20"/>
 </p>
 
 <p align="center">
-  <b>Go Backend Engineer • Systems Thinker • Communication-to-Code Architect</b>
-</p>
-
-<p align="center">
-  <i>“Engineering clarity through systems, APIs, and structured communication.”</i>
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=23&duration=3000&pause=1000&center=true&vCenter=true&multiline=false&width=950&lines=Building+scalable+software+systems+with+Go.;Backend+Engineering+%7C+System+Design+%7C+APIs.;Communication+Professional+Transitioning+into+Software+Engineering.;Technical+Writer+%7C+Open+Source+Learner.;Always+Learning.+Always+Building." alt="Typing SVG" />
 </p>
 
 ---
 
-<!-- ========================================= -->
-<!-- 🌐 SOCIAL LINKS -->
-<!-- ========================================= -->
-
-<h2 align="center">🌐 Connect With Me</h2>
+<h1 align="center">👋 Hello, I'm Okello Odhiambo</h1>
 
 <p align="center">
 
-<a href="https://okello-odhiambo.vercel.app/" target="_blank">
-<img src="https://img.shields.io/badge/Portfolio-Live%20Site-0a192f?style=for-the-badge&logo=vercel&logoColor=white"/>
+Software Engineer • Go Backend Enthusiast • Technical Writer • Communication Professional
+
+</p>
+
+<p align="center">
+
+Building scalable software systems with <strong>Go</strong> while leveraging a strong foundation in communication, technical writing, and digital strategy.
+
+</p>
+
+---
+
+# 🌍 Connect With Me
+
+<p align="center">
+
+<a href="https://okello-odhiambo.vercel.app/">
+<img src="https://img.shields.io/badge/🌐_Portfolio-Visit_Website-0A66C2?style=for-the-badge"/>
 </a>
 
-<a href="https://www.linkedin.com/in/okello-odhiambo/" target="_blank">
-<img src="https://img.shields.io/badge/LinkedIn-Connect-0d1b2a?style=for-the-badge&logo=linkedin&logoColor=white"/>
+<a href="https://www.linkedin.com/in/okello-odhiambo/">
+<img src="https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
 </a>
 
-<a href="https://x.com/okelloodhiambocvs" target="_blank">
-<img src="https://img.shields.io/badge/X-Follow-000000?style=for-the-badge&logo=x&logoColor=white"/>
+<a href="https://github.com/okelloodhiambocvs">
+<img src="https://img.shields.io/badge/GitHub-Follow-181717?style=for-the-badge&logo=github"/>
+</a>
+
+<a href="https://x.com/okelloodhiambocvs">
+<img src="https://img.shields.io/badge/X-Follow-black?style=for-the-badge&logo=x"/>
+</a>
+
+<a href="https://dev.to/okelloodhiambo0">
+<img src="https://img.shields.io/badge/Dev.to-Articles-0A0A0A?style=for-the-badge&logo=devdotto"/>
 </a>
 
 <a href="mailto:okelloodhiambocvs@gmail.com">
-<img src="https://img.shields.io/badge/Email-Contact-1b263b?style=for-the-badge&logo=gmail&logoColor=white"/>
-</a>
-
-<a href="https://dev.to/okelloodhiambo0" target="_blank">
-<img src="https://img.shields.io/badge/Dev.to-Blogs-000000?style=for-the-badge&logo=dev.to&logoColor=white"/>
+<img src="https://img.shields.io/badge/Gmail-Contact-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
 </a>
 
 </p>
 
 ---
 
-<!-- ========================================= -->
-<!-- 👨‍💻 ABOUT -->
-<!-- ========================================= -->
-
-## 🧠 Engineering Philosophy
+# 📈 GitHub Snapshot
 
 <p align="center">
 
-I believe software engineering is not just about writing code — it is about designing **systems that communicate clearly, scale predictably, and solve real-world problems efficiently**.
+<img src="https://komarev.com/ghpvc/?username=okelloodhiambocvs&label=Profile+Views&color=0e75b6&style=flat"/>
 
-My approach is built on three pillars:
+<img src="https://img.shields.io/github/followers/okelloodhiambocvs?label=Followers&style=flat&color=0e75b6"/>
 
-⚙️ **Clarity over complexity**  
-I prioritize readable, maintainable, and intentional system design.
-
-🧩 **Systems over features**  
-I think in architectures, not isolated components.
-
-🌍 **Communication as engineering**  
-Coming from a communication background, I design APIs, interfaces, and systems that humans can understand easily.
+<img src="https://img.shields.io/badge/GitHub-Since%202025-blue?style=flat"/>
 
 </p>
 
 ---
 
-<!-- ========================================= -->
-<!-- 🛠️ TECH STACK -->
-<!-- ========================================= -->
+# 👨‍💻 About Me
 
-<h2 align="center">🛠️ Tech Stack (Go First)</h2>
+I'm a software engineering learner with a background in **communication, digital strategy, and technical writing**, currently transitioning into backend software engineering with **Go (Golang)** as my primary engineering language.
 
-<p align="center">
+My journey is driven by a belief that great software is built through a combination of **technical excellence, thoughtful communication, and continuous learning**.
 
-<img src="https://skillicons.dev/icons?i=go,python,javascript,typescript,react,nodejs,express,html,css,tailwind,mongodb,mysql,docker,git,github,vscode&perline=8"/>
+Today, I focus on building practical applications while strengthening my understanding of:
 
-</p>
+- Backend engineering with Go
+- RESTful API development
+- Distributed systems
+- Software architecture
+- Databases
+- Cloud-native development
+- AI-assisted software engineering
 
----
-
-<!-- ========================================= -->
-<!-- 🚧 NOW BUILDING (AUTO STYLE SECTION) -->
-<!-- ========================================= -->
-
-## 🧠 Now Building (Live Focus)
-
-<p align="center">
-
-⚙️ Designing backend systems in **Go (Golang)**  
-🌐 Building scalable REST APIs and microservices  
-🧩 System design patterns (clean architecture)  
-🤖 AI-assisted automation tools  
-📦 Production-ready backend foundations  
-
-</p>
-
-<p align="center">
-<i>This section evolves as my engineering journey evolves.</i>
-</p>
+Beyond coding, I enjoy documenting my learning journey, writing technical articles, and contributing to conversations that help others grow in technology.
 
 ---
 
-<!-- ========================================= -->
-<!-- 🚀 FEATURED PROJECTS -->
-<!-- ========================================= -->
+# 🧠 Engineering Philosophy
 
-<h2 align="center">🚀 Featured Projects</h2>
+> *"Good software doesn't just work—it communicates."*
 
-<table align="center">
+Coming from a communication background has shaped the way I approach engineering.
 
-<tr>
+I strive to build software that is:
 
-<td width="50%">
+- Clear before clever
+- Maintainable before complicated
+- Scalable before oversized
+- User-focused before feature-focused
 
-<h3>🌐 Portfolio Website</h3>
-Modern developer portfolio showcasing my journey.
+I believe software engineering is fundamentally about solving problems for people. Code is simply the medium through which those solutions are delivered.
 
-🔗 https://okello-odhiambo.vercel.app/
-
-<b>Stack:</b><br>
-React • Vite • Tailwind
-
-</td>
-
-<td width="50%">
-
-<h3>🏢 Philip Leakey Foundation</h3>
-Organizational website for digital presence.
-
-🔗 https://philip-leakey-okello.onrender.com/
-
-<b>Stack:</b><br>
-React • JavaScript • CSS
-
-</td>
-
-</tr>
-
-<tr>
-
-<td width="50%">
-
-<h3>🏗️ Niara Constructions</h3>
-Corporate construction company website.
-
-🔗 https://niara-constructions-production.up.railway.app/
-
-<b>Stack:</b><br>
-React • Tailwind
-
-</td>
-
-<td width="50%">
-
-<h3>🍽️ Hueri Restaurant</h3>
-Restaurant UI/UX experience design.
-
-🔗 https://hueri-production.up.railway.app/
-
-<b>Stack:</b><br>
-React • JavaScript
-
-</td>
-
-</tr>
-
-<tr>
-
-<td width="50%">
-
-<h3>🎨 Ahzuriah Project</h3>
-Business website with clean UI design.
-
-🔗 https://ahzuriah.github.io/
-
-</td>
-
-<td width="50%">
-
-<h3>🚀 More Coming</h3>
-Currently building Go backend systems + APIs.
-
-</td>
-
-</tr>
-
-</table>
+Whether writing documentation, designing APIs, or architecting backend services, I aim to make technology understandable, reliable, and impactful.
 
 ---
 
-<!-- ========================================= -->
-<!-- 📊 GITHUB STATS -->
-<!-- ========================================= -->
+# 🚀 Career Journey
 
-## 📊 Developer Analytics Dashboard
+```text
+Communication & Digital Media
+            │
+            ▼
+ Technical Writing
+            │
+            ▼
+ Frontend Development
+            │
+            ▼
+ Backend Engineering (Go)
+            │
+            ▼
+ Software Architecture
+            │
+            ▼
+ Distributed Systems & Cloud
+```
 
-<p align="center">
-
-<img src="https://github-readme-stats.vercel.app/api?username=okelloodhiambocvs&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github" height="180"/>
-
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=okelloodhiambocvs&theme=tokyonight&hide_border=true" height="180"/>
-
-</p>
-
-<p align="center">
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=okelloodhiambocvs&layout=compact&theme=tokyonight&hide_border=true"/>
-
-</p>
-
----
-
-<!-- ========================================= -->
-<!-- 🔥 STREAK -->
-<!-- ========================================= -->
-
-<h2 align="center">🔥 Contribution Streak</h2>
-
-<p align="center">
-<img src="https://streak-stats.demolab.com?user=okelloodhiambocvs&theme=tokyonight&hide_border=true"/>
-</p>
+Every stage of my journey has strengthened my ability to combine technical expertise with effective communication, enabling me to build software that is both functional and meaningful.
 
 ---
-
-<!-- ========================================= -->
-<!-- 📈 ACTIVITY GRAPH -->
-<!-- ========================================= -->
-
-<h2 align="center">📈 Contribution Activity</h2>
-
-<p align="center">
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=okelloodhiambocvs&theme=tokyo-night"/>
-</p>
-
----
-
-<!-- ========================================= -->
-<!-- 🐍 SNAKE -->
-<!-- ========================================= -->
-
-## 🐍 Contribution Snake
-
-<p align="center">
-
-<img src="https://raw.githubusercontent.com/okelloodhiambocvs/okelloodhiambocvs/output/github-contribution-grid-snake-dark.svg"/>
-
-</p>
-
-<p align="center">
-<i>Auto-generated daily via GitHub Actions</i>
-</p>
-
----
-
-<!-- ========================================= -->
-<!-- 📝 BLOG -->
-<!-- ========================================= -->
-
-## 📝 Latest Articles (Dev.to)
-
-<p align="center">
-
-I document my journey in backend engineering, Go, system design, and communication-tech bridging.
-
-</p>
-
-### 🔗 Read My Writing
-
-- 👉 https://dev.to/okelloodhiambo0
-
----
-
-### 📌 Featured Topics
-- Go Backend Engineering
-- APIs & System Design
-- Developer Communication
-- Software Architecture Thinking
-
-<p align="center">
-<i>New articles added regularly as I grow in backend engineering.</i>
-</p>
-
-## 🎯 Core Engineering Focus
-
-<p align="center">
-
-✔ Backend Development (Go / Golang)  
-✔ REST API Design & Microservices  
-✔ System Architecture & Scalability  
-✔ Cloud-Ready Application Design  
-✔ Technical Communication & Documentation  
-✔ Frontend Integration for Full-Stack Systems  
-
-</p>
-
----
-
-<!-- ========================================= -->
-<!-- 💼 RESUME SECTION -->
-<!-- ========================================= -->
-
-<h2 align="center">💼 Professional Summary</h2>
-
-<p align="center">
-
-Go-first Backend Engineer in training with a strong foundation in communication systems, technical writing, and web development.
-
-Focused on:
-• Backend Engineering (Go)  
-• API Development  
-• System Design  
-• Scalable Architecture  
-
-</p>
-
-## 📄 Professional Snapshot
-
-<p align="center">
-
-🧑‍💻 Role: Backend Engineer (Go-focused)  
-🏗️ Specialty: API Design & System Architecture  
-🧠 Background: Communication + Software Engineering  
-🌍 Focus: Building scalable, human-centered systems  
-
-</p>
-
----
-
-<!-- ========================================= -->
-<!-- 💬 FOOTER -->
-<!-- ========================================= -->
-
-## 💼 Let’s Work Together
-
-<p align="center">
-
-I am currently open to:
-
-✔️ Backend Engineering Internships (Go / Node.js)  
-✔️ Software Engineering Roles  
-✔️ Open Source Contributions  
-✔️ Technical Writing Opportunities  
-✔️ Freelance Web Development Projects  
-
-</p>
-
-<p align="center">
-
-📩 Email: **okelloodhiambocvs@gmail.com**  
-🌐 Portfolio: https://okello-odhiambo.vercel.app/  
-🔗 LinkedIn: https://www.linkedin.com/in/okello-odhiambo/
-
-</p>
-
-<p align="center">
-<b>Let’s build scalable systems that solve real problems.</b>
-</p>
