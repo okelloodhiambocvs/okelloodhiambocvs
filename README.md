@@ -1,23 +1,23 @@
 <!-- ===================== -->
-<!-- 🎨 HERO COLORFUL BANNER -->
+<!-- 🎨 HERO BANNER -->
 <!-- ===================== -->
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0a192f,50:0d1b2a,100:1b263b&height=260&section=header&text=Okello%20Odhiambo&fontSize=42&fontColor=ffffff&animation=fadeIn&fontAlignY=35"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:000000,50:0f172a,100:1e3a8a&height=260&section=header&text=Okello%20Odhiambo&fontSize=42&fontColor=ffffff&animation=fadeIn&fontAlignY=35"/>
 </p>
 
 <p align="center">
-  <b>Go-First Backend Engineer • Communication Systems Thinker • Software Builder</b>
+  <b>Go-First Backend Engineer • Systems Thinker • Communication-to-Code Architect</b>
 </p>
 
 <p align="center">
-  <i>“Building systems where communication meets computation.”</i>
+  <i>“Building scalable systems where communication meets computation.”</i>
 </p>
 
 ---
 
 <!-- ===================== -->
-<!-- 🌐 LINKS -->
+<!-- 🌐 CONNECT -->
 <!-- ===================== -->
 
 ## 🌐 Connect With Me
@@ -25,11 +25,11 @@
 <p align="center">
 
 <a href="https://okello-odhiambo.vercel.app/" target="_blank">
-<img src="https://img.shields.io/badge/Portfolio-Live%20Site-0a192f?style=for-the-badge&logo=vercel&logoColor=white"/>
+<img src="https://img.shields.io/badge/Portfolio-Live%20Site-0f172a?style=for-the-badge&logo=vercel&logoColor=white"/>
 </a>
 
 <a href="https://www.linkedin.com/in/okello-odhiambo/" target="_blank">
-<img src="https://img.shields.io/badge/LinkedIn-Connect-0d1b2a?style=for-the-badge&logo=linkedin&logoColor=white"/>
+<img src="https://img.shields.io/badge/LinkedIn-Connect-1e3a8a?style=for-the-badge&logo=linkedin&logoColor=white"/>
 </a>
 
 <a href="https://x.com/okelloodhiambocvs" target="_blank">
@@ -37,7 +37,11 @@
 </a>
 
 <a href="mailto:okelloodhiambocvs@gmail.com">
-<img src="https://img.shields.io/badge/Email-Contact-1b263b?style=for-the-badge&logo=gmail&logoColor=white"/>
+<img src="https://img.shields.io/badge/Email-Contact-1e293b?style=for-the-badge&logo=gmail&logoColor=white"/>
+</a>
+
+<a href="https://dev.to/okelloodhiambo0" target="_blank">
+<img src="https://img.shields.io/badge/Dev.to-Blogs-0ea5e9?style=for-the-badge&logo=dev.to&logoColor=white"/>
 </a>
 
 </p>
@@ -45,32 +49,31 @@
 ---
 
 <!-- ===================== -->
-<!-- 👤 ABOUT -->
+<!-- 👨‍💻 ABOUT -->
 <!-- ===================== -->
 
-## 👋 About Me
+## 👨‍💻 About Me
 
 <p align="center">
 
-I am a **Communication Professional transitioning into Software Engineering**, currently specializing in **backend systems using Go (Golang)** as my primary engineering language.
+I am a **Communication Professional transitioning into Software Engineering**, specializing in **Go (Golang) backend systems**.
 
-My work sits at the intersection of:
+I combine:
+- 🧠 Communication systems thinking  
+- ⚙️ Backend engineering principles  
+- 🌍 Real-world product building  
 
-- 🧠 Structured communication & systems thinking  
-- ⚙️ Backend engineering & scalable system design  
-- 🌍 Real-world problem solving using software  
-
-I am actively building towards becoming a **backend-heavy software engineer focused on distributed systems, APIs, and intelligent automation platforms.**
+My focus is building **scalable APIs, distributed systems, and automation platforms**.
 
 </p>
 
 ---
 
 <!-- ===================== -->
-<!-- 🛠️ TECH STACK -->
+<!-- 🛠️ STACK -->
 <!-- ===================== -->
 
-## 🛠️ Tech Stack (Go-First Engineering Stack)
+## 🛠️ Tech Stack (Go-First)
 
 <p align="center">
 
@@ -81,25 +84,25 @@ I am actively building towards becoming a **backend-heavy software engineer focu
 ---
 
 <!-- ===================== -->
-<!-- 🚧 CURRENT WORK -->
+<!-- 🚧 NOW BUILDING -->
 <!-- ===================== -->
 
-## 🚧 Currently Building
+## 🚧 Now Building
 
 <p align="center">
 
-⚙️ Backend systems using **Golang (primary language)**  
-🌐 REST & API-first architectures  
-🧠 Distributed system design fundamentals  
+⚙️ Backend systems in **Go (primary language)**  
+🌐 REST APIs & microservices architecture  
+🧠 Distributed system fundamentals  
 🤖 AI-assisted automation tools  
-📦 Clean backend architectures (MVC / layered / microservices thinking)  
+📦 Clean backend design (layered + modular systems)
 
 </p>
 
 ---
 
 <!-- ===================== -->
-<!-- 🚀 FEATURED PROJECTS -->
+<!-- 🚀 PROJECTS -->
 <!-- ===================== -->
 
 ## 🚀 Featured Projects
@@ -109,28 +112,22 @@ I am actively building towards becoming a **backend-heavy software engineer focu
 <td width="50%">
 
 ### 🌐 Portfolio Website
-A modern personal portfolio showcasing my engineering journey and projects.
+Modern personal portfolio showcasing engineering journey.
 
-🔗 Live: https://okello-odhiambo.vercel.app/
+🔗 https://okello-odhiambo.vercel.app/
 
-**Stack**
-- React
-- Vite
-- Tailwind CSS
+**Stack:** React • Vite • Tailwind
 
 </td>
 
 <td width="50%">
 
 ### 🏢 Philip Leakey Foundation
-Organizational website improving digital presence and engagement.
+Organizational platform for digital presence.
 
 🔗 https://philip-leakey-okello.onrender.com/
 
-**Stack**
-- React
-- JavaScript
-- CSS
+**Stack:** React • JS • CSS
 
 </td>
 </tr>
@@ -139,28 +136,22 @@ Organizational website improving digital presence and engagement.
 <td width="50%">
 
 ### 🏗️ Niara Constructions
-Corporate website for construction services and brand identity.
+Corporate website for construction brand identity.
 
 🔗 https://niara-constructions-production.up.railway.app/
 
-**Stack**
-- React
-- Tailwind CSS
-- UI Design
+**Stack:** React • Tailwind
 
 </td>
 
 <td width="50%">
 
 ### 🍽️ Hueri Restaurant
-Responsive restaurant platform focused on UX and design clarity.
+UX-focused restaurant website.
 
 🔗 https://hueri-production.up.railway.app/
 
-**Stack**
-- React
-- JavaScript
-- CSS
+**Stack:** React • CSS
 
 </td>
 </tr>
@@ -169,7 +160,7 @@ Responsive restaurant platform focused on UX and design clarity.
 <td width="50%">
 
 ### 🎨 Ahzuriah Project
-Clean business website focused on simplicity and usability.
+Business website with clean UI and responsiveness.
 
 🔗 https://ahzuriah.github.io/
 
@@ -178,7 +169,7 @@ Clean business website focused on simplicity and usability.
 <td width="50%">
 
 ### 🚀 More Coming
-Currently building backend systems in Go + scalable APIs.
+Building Go backend systems & APIs.
 
 </td>
 </tr>
@@ -187,7 +178,7 @@ Currently building backend systems in Go + scalable APIs.
 ---
 
 <!-- ===================== -->
-<!-- 📊 GITHUB STATS -->
+<!-- 📊 STATS -->
 <!-- ===================== -->
 
 ## 📊 GitHub Analytics
@@ -202,10 +193,6 @@ Currently building backend systems in Go + scalable APIs.
 
 ---
 
-<!-- ===================== -->
-<!-- 🔥 STREAK -->
-<!-- ===================== -->
-
 ## 🔥 Contribution Streak
 
 <p align="center">
@@ -214,34 +201,42 @@ Currently building backend systems in Go + scalable APIs.
 
 ---
 
-<!-- ===================== -->
-<!-- 🐍 SNAKE -->
-<!-- ===================== -->
-
-## 🐍 Contribution Snake
+## 📈 Activity Graph
 
 <p align="center">
-<img src="https://raw.githubusercontent.com/okelloodhiambocvs/okelloodhiambocvs/output/github-contribution-grid-snake-dark.svg"/>
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=okelloodhiambocvs&theme=tokyo-night"/>
+</p>
+
+---
+
+## 🐍 Contribution Snake (AUTO)
+
+<p align="center">
+<img src="https://raw.githubusercontent.com/okelloodhiambocvs/okelloodhiambocvs/output/github-contribution-grid-snake.svg"/>
 </p>
 
 ---
 
 <!-- ===================== -->
-<!-- 📝 WRITING -->
+<!-- 📝 BLOG -->
 <!-- ===================== -->
 
-## 📝 Writing & Engineering Journey
+## 📝 Writing & Articles
 
 <p align="center">
 
-I document my transition into software engineering through structured learning and technical writing, bridging communication and backend engineering.
+I document my journey from communication systems into backend engineering and Go development.
 
 </p>
 
-- Backend engineering concepts (Go, APIs, system design)  
-- Software architecture breakdowns  
-- Developer communication & technical writing  
-- Distributed systems learning notes  
+🔗 Dev.to: https://dev.to/okelloodhiambo0
+
+Topics:
+- Go backend systems
+- API design
+- System architecture
+- Developer communication
+- Learning notes
 
 ---
 
@@ -249,20 +244,20 @@ I document my transition into software engineering through structured learning a
 <!-- 💼 FOOTER -->
 <!-- ===================== -->
 
-## 💼 Let's Build Together
+## 💼 Open To Work
 
 <p align="center">
 
-Open to:
-- Backend Engineering roles (Go-focused)  
-- Software Engineering internships  
-- Open-source collaboration  
-- Technical writing opportunities  
+✔ Backend Engineer (Go)  
+✔ Software Engineering Internship  
+✔ Open Source Collaboration  
+✔ Technical Writing  
 
 </p>
 
 ---
 
 <p align="center">
-<b>⭐ If you find my work valuable, feel free to connect or collaborate.</b>
+<b>⭐ Built with intention. Designed for impact. Engineered for scale.</b>
 </p>
+      
