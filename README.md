@@ -3,15 +3,15 @@
 <!-- ========================================= -->
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0a192f,50:000000,100:0d1b2a&height=280&section=header&text=Okello%20Odhiambo&fontSize=42&fontColor=ffffff&animation=fadeIn&fontAlignY=35"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0a192f,50:000000,100:1b263b&height=300&section=header&text=Okello%20Odhiambo&fontSize=44&fontColor=ffffff&animation=fadeIn&fontAlignY=35"/>
 </p>
 
 <p align="center">
-  <b>GO Backend Engineer • Communication Systems Thinker • Software Architect in Progress</b>
+  <b>Go Backend Engineer • Systems Thinker • Communication-to-Code Architect</b>
 </p>
 
 <p align="center">
-  <i>“Building systems where communication meets computation.”</i>
+  <i>“Engineering clarity through systems, APIs, and structured communication.”</i>
 </p>
 
 ---
@@ -89,16 +89,20 @@ My engineering focus is:
 <!-- 🚧 NOW BUILDING (AUTO STYLE SECTION) -->
 <!-- ========================================= -->
 
-<h2 align="center">🚧 Now Building</h2>
+## 🧠 Now Building (Live Focus)
 
 <p align="center">
 
-⚙️ Backend systems using <b>Golang (primary language)</b><br>
-🌐 REST APIs & microservice architecture foundations<br>
-🧠 Distributed systems fundamentals<br>
-🤖 AI-powered automation tools<br>
-📦 Clean architecture (layered + scalable backend design)<br>
+⚙️ Designing backend systems in **Go (Golang)**  
+🌐 Building scalable REST APIs and microservices  
+🧩 System design patterns (clean architecture)  
+🤖 AI-assisted automation tools  
+📦 Production-ready backend foundations  
 
+</p>
+
+<p align="center">
+<i>This section evolves as my engineering journey evolves.</i>
 </p>
 
 ---
@@ -247,14 +251,28 @@ Currently building Go backend systems + APIs.
 <!-- 📝 BLOG -->
 <!-- ========================================= -->
 
-<h2 align="center">📝 Latest Articles</h2>
+## 📝 Latest Articles (Dev.to)
 
 <p align="center">
 
-I write about software engineering, backend systems, and my learning journey.
+I document my journey in backend engineering, Go, system design, and communication-tech bridging.
 
-🔗 https://dev.to/okelloodhiambo0
+</p>
 
+### 🔗 Read My Writing
+
+- 👉 https://dev.to/okelloodhiambo0
+
+---
+
+### 📌 Featured Topics
+- Go Backend Engineering
+- APIs & System Design
+- Developer Communication
+- Software Architecture Thinking
+
+<p align="center">
+<i>New articles added regularly as I grow in backend engineering.</i>
 </p>
 
 ---
@@ -283,18 +301,28 @@ Focused on:
 <!-- 💬 FOOTER -->
 <!-- ========================================= -->
 
-<h2 align="center">⭐ Let’s Build Together</h2>
+## 💼 Let’s Work Together
 
 <p align="center">
 
-Open to:
-• Backend Engineering roles (Go)  
-• Internships  
-• Open-source collaboration  
-• Technical writing  
+I am currently open to:
+
+✔️ Backend Engineering Internships (Go / Node.js)  
+✔️ Software Engineering Roles  
+✔️ Open Source Contributions  
+✔️ Technical Writing Opportunities  
+✔️ Freelance Web Development Projects  
 
 </p>
 
 <p align="center">
-<b>⭐ If my work resonates with you, feel free to connect or collaborate.</b>
+
+📩 Email: **okelloodhiambocvs@gmail.com**  
+🌐 Portfolio: https://okello-odhiambo.vercel.app/  
+🔗 LinkedIn: https://www.linkedin.com/in/okello-odhiambo/
+
+</p>
+
+<p align="center">
+<b>Let’s build scalable systems that solve real problems.</b>
 </p>
