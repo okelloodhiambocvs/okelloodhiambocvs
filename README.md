@@ -1,9 +1,9 @@
 <!-- ===================== -->
-<!-- 🎨 CUSTOM BANNER -->
+<!-- 🎨 CUSTOM COLORFUL BANNER -->
 <!-- ===================== -->
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1b2a,100:1b263b&height=220&section=header&text=Okello%20Odhiambo&fontSize=40&fontColor=ffffff&animation=fadeIn&fontAlignY=35"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1b2a,50:1b263b,100:415a77&height=240&section=header&text=Okello%20Odhiambo&fontSize=42&fontColor=ffffff&animation=fadeIn&fontAlignY=35"/>
 </p>
 
 <p align="center">
@@ -18,19 +18,23 @@
 
 ## 👋 About Me
 
-I am a **Communication Professional transitioning into Software Engineering**, focused on building scalable, real-world digital systems.
+<p align="center">
 
-I combine:
-- Communication strategy & clarity of thought  
-- Software engineering & system design  
-- Emerging interest in AI systems  
+I am a **Communication Professional transitioning into Software Engineering**, focused on building scalable, real-world digital systems and backend-driven applications.
 
-My goal is to build **impact-driven software products that solve real problems in Africa and beyond.**
+My foundation is built on:
+- 🧠 Communication strategy & structured thinking  
+- ⚙️ Software engineering & system design  
+- 🌍 Problem-solving through technology  
+
+My long-term goal is to build **impact-driven software systems across Africa and global markets**, with a strong focus on backend engineering and intelligent systems.
+
+</p>
 
 ---
 
 <!-- ===================== -->
-<!-- 🔗 SOCIAL LINKS -->
+<!-- 🌐 LINKS -->
 <!-- ===================== -->
 
 ## 🌐 Connect With Me
@@ -38,11 +42,11 @@ My goal is to build **impact-driven software products that solve real problems i
 <p align="center">
 
 <a href="https://okello-odhiambo.vercel.app/" target="_blank">
-<img src="https://img.shields.io/badge/Portfolio-Website-0A66C2?style=for-the-badge&logo=vercel&logoColor=white"/>
+<img src="https://img.shields.io/badge/Portfolio-Live%20Site-0d1b2a?style=for-the-badge&logo=vercel&logoColor=white"/>
 </a>
 
 <a href="https://www.linkedin.com/in/okello-odhiambo/" target="_blank">
-<img src="https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
+<img src="https://img.shields.io/badge/LinkedIn-Connect-1b263b?style=for-the-badge&logo=linkedin&logoColor=white"/>
 </a>
 
 <a href="https://x.com/okelloodhiambocvs" target="_blank">
@@ -50,7 +54,7 @@ My goal is to build **impact-driven software products that solve real problems i
 </a>
 
 <a href="mailto:okelloodhiambocvs@gmail.com">
-<img src="https://img.shields.io/badge/Email-Contact-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
+<img src="https://img.shields.io/badge/Email-Contact-415a77?style=for-the-badge&logo=gmail&logoColor=white"/>
 </a>
 
 </p>
@@ -61,27 +65,31 @@ My goal is to build **impact-driven software products that solve real problems i
 <!-- 🛠️ TECH STACK -->
 <!-- ===================== -->
 
-## 🛠️ Tech Stack (Core Focus: Go First)
+## 🛠️ Tech Stack (Go First Approach)
 
 <p align="center">
 
-<img src="https://skillicons.dev/icons?i=go,python,javascript,typescript,react,nodejs,express,html,css,tailwind,git,github,vscode,mysql,mongodb,docker&perline=8" />
+<img src="https://skillicons.dev/icons?i=go,python,javascript,typescript,react,nodejs,express,html,css,tailwind,mongodb,mysql,docker,git,github,vscode&perline=8" />
 
 </p>
 
 ---
 
 <!-- ===================== -->
-<!-- 🚧 CURRENTLY BUILDING -->
+<!-- 🚧 CURRENT WORK -->
 <!-- ===================== -->
 
 ## 🚧 Currently Building
 
-- ⚙️ Backend systems using **Go (Golang)** as primary language
-- 🌐 Full-stack web applications (React + Node.js + Go APIs)
-- 🧠 Exploring system design and distributed architecture
-- 🤖 AI-assisted applications and automation tools
-- 📦 API-first applications with clean architecture
+<p align="center">
+
+⚙️ Backend systems using **Go (Golang)** as my primary engineering language  
+🌐 Full-stack applications using React + Node.js + Go APIs  
+🧠 System design, distributed architectures & scalability principles  
+🤖 AI-powered tools and automation systems  
+📦 API-first backend systems with clean architecture  
+
+</p>
 
 ---
 
@@ -92,7 +100,9 @@ My goal is to build **impact-driven software products that solve real problems i
 ## 🚀 Featured Projects
 
 ### 🌐 Portfolio Website
-Personal developer portfolio showcasing my journey, projects, and growth.
+<p align="center">
+Personal developer portfolio showcasing my journey, skills, and engineering growth.
+</p>
 
 🔗 https://okello-odhiambo.vercel.app/  
 🛠 React • Vite • Tailwind CSS  
@@ -100,7 +110,9 @@ Personal developer portfolio showcasing my journey, projects, and growth.
 ---
 
 ### 🏢 Philip Leakey Foundation Website
-Professional organizational website improving digital presence and accessibility.
+<p align="center">
+Organizational platform improving digital visibility and engagement.
+</p>
 
 🔗 https://philip-leakey-okello.onrender.com/  
 🛠 React • JavaScript • CSS  
@@ -108,15 +120,19 @@ Professional organizational website improving digital presence and accessibility
 ---
 
 ### 🏗️ Niara Constructions Platform
-Corporate website designed for construction business visibility and service presentation.
+<p align="center">
+Corporate website designed for service visibility and professional presentation.
+</p>
 
 🔗 https://niara-constructions-production.up.railway.app/  
-🛠 React • Tailwind • UI Design  
+🛠 React • Tailwind • UI Engineering  
 
 ---
 
-### 🍽️ Hueri Restaurant Website
-Modern restaurant UI with responsive design and user experience focus.
+### 🍽️ Hueri Restaurant Platform
+<p align="center">
+Modern restaurant UI focused on user experience and responsiveness.
+</p>
 
 🔗 https://hueri-production.up.railway.app/  
 🛠 React • CSS • JavaScript  
@@ -124,7 +140,9 @@ Modern restaurant UI with responsive design and user experience focus.
 ---
 
 ### 🎨 Ahzuriah Project
-Business website focused on clean UI and professional presentation.
+<p align="center">
+Clean business website focused on design clarity and user engagement.
+</p>
 
 🔗 https://ahzuriah.github.io/  
 
@@ -159,7 +177,7 @@ Business website focused on clean UI and professional presentation.
 ---
 
 <!-- ===================== -->
-<!-- 🐍 SNAKE -->
+<!-- 🐍 SNAKE (IMPORTANT) -->
 <!-- ===================== -->
 
 ## 🐍 Contribution Snake
@@ -171,18 +189,21 @@ Business website focused on clean UI and professional presentation.
 ---
 
 <!-- ===================== -->
-<!-- 📝 BLOG -->
+<!-- 📝 WRITING -->
 <!-- ===================== -->
 
-## 📝 Latest Thinking / Writing
+## 📝 Writing & Learning Journey
 
-As a communication professional, I actively document my learning journey.
+<p align="center">
 
-- Technical writing on software engineering concepts  
-- Breakdown of backend systems and APIs  
-- Communication between humans and systems  
+As a communication professional, I document my transition into software engineering through structured learning and technical writing.
 
-📌 Blog section coming soon (Medium / Dev.to integration)
+</p>
+
+- Backend engineering concepts (Go, APIs, system design)  
+- Software architecture breakdowns  
+- Developer communication & technical writing  
+- Learning notes on distributed systems  
 
 ---
 
@@ -192,18 +213,22 @@ As a communication professional, I actively document my learning journey.
 
 ## 💼 Let's Build Together
 
-I am open to:
-- Software engineering internships  
-- Backend development roles  
+<p align="center">
+
+Open to:
+- Software Engineering roles  
+- Backend Engineering internships  
 - Open-source collaboration  
 - Technical writing opportunities  
+
+</p>
 
 ---
 
 <p align="center">
-<b>“Building systems that connect communication and computation.”</b>
+<b>“Building systems where communication meets computation.”</b>
 </p>
 
 <p align="center">
-⭐ If you find my work interesting, feel free to connect or collaborate.
+⭐ If you find my work valuable, feel free to connect or collaborate.
 </p>
