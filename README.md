@@ -52,20 +52,22 @@
 <!-- 👨‍💻 ABOUT -->
 <!-- ========================================= -->
 
-<h2 align="center">👨‍💻 About Me</h2>
+## 🧠 Engineering Philosophy
 
 <p align="center">
 
-I am a <b>Communication Professional transitioning into Software Engineering</b>, currently focused on <b>Go (Golang) backend systems</b>.
+I believe software engineering is not just about writing code — it is about designing **systems that communicate clearly, scale predictably, and solve real-world problems efficiently**.
 
-I operate at the intersection of:
+My approach is built on three pillars:
 
-• 🧠 Systems thinking & structured communication  
-• ⚙️ Backend engineering & scalable APIs  
-• 🌍 Real-world problem solving with software  
+⚙️ **Clarity over complexity**  
+I prioritize readable, maintainable, and intentional system design.
 
-My engineering focus is:
-<b>Go-first backend development, APIs, distributed systems, and scalable architecture design.</b>
+🧩 **Systems over features**  
+I think in architectures, not isolated components.
+
+🌍 **Communication as engineering**  
+Coming from a communication background, I design APIs, interfaces, and systems that humans can understand easily.
 
 </p>
 
@@ -199,13 +201,19 @@ Currently building Go backend systems + APIs.
 <!-- 📊 GITHUB STATS -->
 <!-- ========================================= -->
 
-<h2 align="center">📊 GitHub Analytics</h2>
+## 📊 Developer Analytics Dashboard
 
 <p align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=okelloodhiambocvs&show_icons=true&theme=tokyonight&hide_border=true" height="180"/>
+<img src="https://github-readme-stats.vercel.app/api?username=okelloodhiambocvs&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github" height="180"/>
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=okelloodhiambocvs&layout=compact&theme=tokyonight&hide_border=true" height="180"/>
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=okelloodhiambocvs&theme=tokyonight&hide_border=true" height="180"/>
+
+</p>
+
+<p align="center">
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=okelloodhiambocvs&layout=compact&theme=tokyonight&hide_border=true"/>
 
 </p>
 
@@ -239,10 +247,16 @@ Currently building Go backend systems + APIs.
 <!-- 🐍 SNAKE -->
 <!-- ========================================= -->
 
-<h2 align="center">🐍 Contribution Snake</h2>
+## 🐍 Contribution Snake
 
 <p align="center">
-<img src="https://raw.githubusercontent.com/okelloodhiambocvs/okelloodhiambocvs/output/github-contribution-grid-snake.svg"/>
+
+<img src="https://raw.githubusercontent.com/okelloodhiambocvs/okelloodhiambocvs/output/github-contribution-grid-snake-dark.svg"/>
+
+</p>
+
+<p align="center">
+<i>Auto-generated daily via GitHub Actions</i>
 </p>
 
 ---
@@ -275,6 +289,19 @@ I document my journey in backend engineering, Go, system design, and communicati
 <i>New articles added regularly as I grow in backend engineering.</i>
 </p>
 
+## 🎯 Core Engineering Focus
+
+<p align="center">
+
+✔ Backend Development (Go / Golang)  
+✔ REST API Design & Microservices  
+✔ System Architecture & Scalability  
+✔ Cloud-Ready Application Design  
+✔ Technical Communication & Documentation  
+✔ Frontend Integration for Full-Stack Systems  
+
+</p>
+
 ---
 
 <!-- ========================================= -->
@@ -292,6 +319,17 @@ Focused on:
 • API Development  
 • System Design  
 • Scalable Architecture  
+
+</p>
+
+## 📄 Professional Snapshot
+
+<p align="center">
+
+🧑‍💻 Role: Backend Engineer (Go-focused)  
+🏗️ Specialty: API Design & System Architecture  
+🧠 Background: Communication + Software Engineering  
+🌍 Focus: Building scalable, human-centered systems  
 
 </p>
 
