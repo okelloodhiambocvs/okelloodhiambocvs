@@ -4,7 +4,7 @@
 <!-- ===================================================================================== -->
 
 <p align="center">
-  <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=320&color=gradient&customColorList=12,20,24&text=Okello%20Odhiambo&fontSize=50&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Software%20Engineer%20%7C%20Go%20Backend%20Enthusiast%20%7C%20Technical%20Writer&descAlignY=58&descSize=20"/>
+  <img src="./assets/banner.png" alt="Okello Odhiambo Banner" width="100%" />
 </p>
 
 <p align="center">
