@@ -13,7 +13,7 @@
 
 ---
 
-<h1 align="center">👋 Hello, I'm Okello Odhiambo</h1>
+<h1 align="center">HELLO, HABARI! I AM BRAYAN OKELLO ODHIAMBO A.K.A BATOH</h1>
 
 <p align="center">
 
