@@ -15,7 +15,15 @@ My background in strategic communication, technical writing, digital marketing, 
 - ✍️ Experienced in **Technical Writing, Digital Communications, and Content Strategy**
 - 🤝 Open to internships, freelance projects, open-source collaborations, and graduate software engineering opportunities
 - 🌍 Portfolio: **https://okello-odhiambo.vercel.app/**
-- 📫 Email: **okelloodhiambocvs@gmail.com**  
+- 📫 Email: **okelloodhiambocvs@gmail.com**
+
+## 🚀 What I'm Working On
+
+- 🔭 Building modern full-stack web applications KAZIFY
+- 🌱 Deepening my knowledge of Backend Development with, Golang, Node.js and Express
+- 🤖 Exploring Artificial Intelligence and Machine Learning
+- 📚 Strengthening my Data Structures & Algorithms skills
+- ☁️ Learning Cloud Computing and Deployment
 
 ## 🌐 Connect with Me
 
@@ -98,12 +106,90 @@ My background in strategic communication, technical writing, digital marketing, 
 
 ## 🚀 Featured Projects
 
-| Project | Description | Tech |
-|---------|-------------|------|
-| 🌐 Portfolio Website | Personal portfolio showcasing my journey, projects, and experience. | Golang, React, Vite, Tailwind CSS |
-| 💼 Communication Projects | Digital communication, technical writing, and media projects. | Content Strategy |
-| ⚙️ JavaScript Projects | Practice projects focused on JavaScript fundamentals. | JavaScript |
-| 🐍 Python Projects | Automation scripts and beginner Python applications. | Python |
+<table>
+<tr>
+<td width="50%">
+
+### 🌐 Personal Portfolio
+A modern portfolio website showcasing my journey, skills, projects, and professional experience.
+
+**Tech Stack**
+- React
+- Vite
+- Tailwind CSS
+
+🔗 **Live Demo**
+https://okello-odhiambo.vercel.app/
+
+</td>
+
+<td width="50%">
+
+### 🏢 Philip Leakey Foundation
+A responsive website built for the Philip Leakey Foundation to improve its online presence and accessibility.
+
+**Tech Stack**
+- React
+- CSS
+- JavaScript
+
+🔗 **Live Demo**
+https://philip-leakey-okello.onrender.com/
+
+</td>
+</tr>
+
+<tr>
+<td width="50%">
+
+### 🏗️ Niara Constructions
+A professional construction company website featuring modern UI, responsive layouts, and service presentation.
+
+**Tech Stack**
+- React
+- Tailwind CSS
+- JavaScript
+
+🔗 **Live Demo**
+https://niara-constructions-production.up.railway.app/
+
+</td>
+
+<td width="50%">
+
+### 🍽️ Hueri Restaurant
+A clean and responsive restaurant website designed to provide an engaging user experience.
+
+**Tech Stack**
+- React
+- CSS
+- JavaScript
+
+🔗 **Live Demo**
+https://hueri-production.up.railway.app/
+
+</td>
+</tr>
+
+<tr>
+<td width="50%">
+
+### 🎨 Ahzuriah
+A modern business website focused on clean design, responsiveness, and user experience.
+
+🔗 **Live Demo**
+https://ahzuriah.github.io/
+
+</td>
+
+<td width="50%">
+
+### 🚀 More Projects Coming...
+I'm actively building more full-stack applications and open-source projects.
+
+</td>
+</tr>
+</table>
 
 ## 📈 Contribution Graph
 
@@ -113,4 +199,24 @@ My background in strategic communication, technical writing, digital marketing, 
 
 </p>
 
- 
+## 🐍 Contribution Snake
+
+<p align="center">
+
+<img src="https://raw.githubusercontent.com/okelloodhiambocvs/okelloodhiambocvs/output/github-contribution-grid-snake-dark.svg" alt="snake animation" />
+
+</p>
+
+ ---
+
+<h3 align="center">
+
+⭐ Thanks for visiting my GitHub Profile! ⭐
+
+</h3>
+
+<p align="center">
+
+If you like my work, feel free to connect, collaborate, or explore my repositories.
+
+</p>
