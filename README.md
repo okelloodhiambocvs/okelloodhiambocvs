@@ -1,16 +1,14 @@
-## Hi there 👋
+<h1 align="center">Hi 👋, I'm Okello Odhiambo</h1>
 
-<!--
-**okelloodhiambocvs/okelloodhiambocvs** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<p align="center">
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&pause=1000&color=0E75B6&center=true&vCenter=true&width=900&lines=Communication+Professional;Software+Engineering+Learner;Technical+Writer;Backend+Developer+in+Progress;Future+AI+Engineer" alt="Typing SVG" />
+</p>
 
-Here are some ideas to get you started:
+## 👨‍💻 About Me
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 🎓 Transitioning from **Communications** to **Software Engineering**
+- 🌱 Currently learning **Go, JavaScript, React, Python, TypeScript, Git & GitHub**
+- ✍️ Experienced in **Technical Writing, Digital Communications, and Content Strategy**
+- 💡 Passionate about Backend Development, AI, and Open Source
+- 🤝 Open to internships, collaborations, and software engineering opportunities
+- 📫 Reach me at: **okelloodhiambocvs@gmail.com**
