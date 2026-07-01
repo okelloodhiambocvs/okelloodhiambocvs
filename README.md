@@ -53,7 +53,7 @@ My background in strategic communication, technical writing, digital marketing, 
 
 <p align="center">
 
-<img src="https://skillicons.dev/icons?i=html,css,javascript,typescript,react,nodejs,python,git,github,vscode,figma,linux,vite,tailwind,mongodb,mysql&perline=8" />
+<img src="https://skillicons.dev/icons?i=Go,html,css,javascript,typescript,react,nodejs,python,git,github,vscode,figma,linux,vite,tailwind,mongodb,mysql&perline=8" />
 
 </p>
 
