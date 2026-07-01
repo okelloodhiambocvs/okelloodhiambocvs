@@ -1,34 +1,17 @@
 <!-- ===================== -->
-<!-- 🎨 CUSTOM COLORFUL BANNER -->
+<!-- 🎨 HERO COLORFUL BANNER -->
 <!-- ===================== -->
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1b2a,50:1b263b,100:415a77&height=240&section=header&text=Okello%20Odhiambo&fontSize=42&fontColor=ffffff&animation=fadeIn&fontAlignY=35"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0a192f,50:0d1b2a,100:1b263b&height=260&section=header&text=Okello%20Odhiambo&fontSize=42&fontColor=ffffff&animation=fadeIn&fontAlignY=35"/>
 </p>
 
 <p align="center">
-  <b>Bridging Communication, Software Engineering & Intelligent Systems</b>
+  <b>Go-First Backend Engineer • Communication Systems Thinker • Software Builder</b>
 </p>
 
----
-
-<!-- ===================== -->
-<!-- 👤 INTRO -->
-<!-- ===================== -->
-
-## 👋 About Me
-
 <p align="center">
-
-I am a **Communication Professional transitioning into Software Engineering**, focused on building scalable, real-world digital systems and backend-driven applications.
-
-My foundation is built on:
-- 🧠 Communication strategy & structured thinking  
-- ⚙️ Software engineering & system design  
-- 🌍 Problem-solving through technology  
-
-My long-term goal is to build **impact-driven software systems across Africa and global markets**, with a strong focus on backend engineering and intelligent systems.
-
+  <i>“Building systems where communication meets computation.”</i>
 </p>
 
 ---
@@ -42,11 +25,11 @@ My long-term goal is to build **impact-driven software systems across Africa and
 <p align="center">
 
 <a href="https://okello-odhiambo.vercel.app/" target="_blank">
-<img src="https://img.shields.io/badge/Portfolio-Live%20Site-0d1b2a?style=for-the-badge&logo=vercel&logoColor=white"/>
+<img src="https://img.shields.io/badge/Portfolio-Live%20Site-0a192f?style=for-the-badge&logo=vercel&logoColor=white"/>
 </a>
 
 <a href="https://www.linkedin.com/in/okello-odhiambo/" target="_blank">
-<img src="https://img.shields.io/badge/LinkedIn-Connect-1b263b?style=for-the-badge&logo=linkedin&logoColor=white"/>
+<img src="https://img.shields.io/badge/LinkedIn-Connect-0d1b2a?style=for-the-badge&logo=linkedin&logoColor=white"/>
 </a>
 
 <a href="https://x.com/okelloodhiambocvs" target="_blank">
@@ -54,8 +37,30 @@ My long-term goal is to build **impact-driven software systems across Africa and
 </a>
 
 <a href="mailto:okelloodhiambocvs@gmail.com">
-<img src="https://img.shields.io/badge/Email-Contact-415a77?style=for-the-badge&logo=gmail&logoColor=white"/>
+<img src="https://img.shields.io/badge/Email-Contact-1b263b?style=for-the-badge&logo=gmail&logoColor=white"/>
 </a>
+
+</p>
+
+---
+
+<!-- ===================== -->
+<!-- 👤 ABOUT -->
+<!-- ===================== -->
+
+## 👋 About Me
+
+<p align="center">
+
+I am a **Communication Professional transitioning into Software Engineering**, currently specializing in **backend systems using Go (Golang)** as my primary engineering language.
+
+My work sits at the intersection of:
+
+- 🧠 Structured communication & systems thinking  
+- ⚙️ Backend engineering & scalable system design  
+- 🌍 Real-world problem solving using software  
+
+I am actively building towards becoming a **backend-heavy software engineer focused on distributed systems, APIs, and intelligent automation platforms.**
 
 </p>
 
@@ -65,7 +70,7 @@ My long-term goal is to build **impact-driven software systems across Africa and
 <!-- 🛠️ TECH STACK -->
 <!-- ===================== -->
 
-## 🛠️ Tech Stack (Go First Approach)
+## 🛠️ Tech Stack (Go-First Engineering Stack)
 
 <p align="center">
 
@@ -83,68 +88,101 @@ My long-term goal is to build **impact-driven software systems across Africa and
 
 <p align="center">
 
-⚙️ Backend systems using **Go (Golang)** as my primary engineering language  
-🌐 Full-stack applications using React + Node.js + Go APIs  
-🧠 System design, distributed architectures & scalability principles  
-🤖 AI-powered tools and automation systems  
-📦 API-first backend systems with clean architecture  
+⚙️ Backend systems using **Golang (primary language)**  
+🌐 REST & API-first architectures  
+🧠 Distributed system design fundamentals  
+🤖 AI-assisted automation tools  
+📦 Clean backend architectures (MVC / layered / microservices thinking)  
 
 </p>
 
 ---
 
 <!-- ===================== -->
-<!-- 🚀 PROJECTS -->
+<!-- 🚀 FEATURED PROJECTS -->
 <!-- ===================== -->
 
 ## 🚀 Featured Projects
 
+<table>
+<tr>
+<td width="50%">
+
 ### 🌐 Portfolio Website
-<p align="center">
-Personal developer portfolio showcasing my journey, skills, and engineering growth.
-</p>
+A modern personal portfolio showcasing my engineering journey and projects.
 
-🔗 https://okello-odhiambo.vercel.app/  
-🛠 React • Vite • Tailwind CSS  
+🔗 Live: https://okello-odhiambo.vercel.app/
 
----
+**Stack**
+- React
+- Vite
+- Tailwind CSS
 
-### 🏢 Philip Leakey Foundation Website
-<p align="center">
-Organizational platform improving digital visibility and engagement.
-</p>
+</td>
 
-🔗 https://philip-leakey-okello.onrender.com/  
-🛠 React • JavaScript • CSS  
+<td width="50%">
 
----
+### 🏢 Philip Leakey Foundation
+Organizational website improving digital presence and engagement.
 
-### 🏗️ Niara Constructions Platform
-<p align="center">
-Corporate website designed for service visibility and professional presentation.
-</p>
+🔗 https://philip-leakey-okello.onrender.com/
 
-🔗 https://niara-constructions-production.up.railway.app/  
-🛠 React • Tailwind • UI Engineering  
+**Stack**
+- React
+- JavaScript
+- CSS
 
----
+</td>
+</tr>
 
-### 🍽️ Hueri Restaurant Platform
-<p align="center">
-Modern restaurant UI focused on user experience and responsiveness.
-</p>
+<tr>
+<td width="50%">
 
-🔗 https://hueri-production.up.railway.app/  
-🛠 React • CSS • JavaScript  
+### 🏗️ Niara Constructions
+Corporate website for construction services and brand identity.
 
----
+🔗 https://niara-constructions-production.up.railway.app/
+
+**Stack**
+- React
+- Tailwind CSS
+- UI Design
+
+</td>
+
+<td width="50%">
+
+### 🍽️ Hueri Restaurant
+Responsive restaurant platform focused on UX and design clarity.
+
+🔗 https://hueri-production.up.railway.app/
+
+**Stack**
+- React
+- JavaScript
+- CSS
+
+</td>
+</tr>
+
+<tr>
+<td width="50%">
 
 ### 🎨 Ahzuriah Project
-<p align="center">
-Clean business website focused on design clarity and user engagement.
-</p>
+Clean business website focused on simplicity and usability.
 
-🔗 https://ahzuriah.github.io/  
+🔗 https://ahzuriah.github.io/
+
+</td>
+
+<td width="50%">
+
+### 🚀 More Coming
+Currently building backend systems in Go + scalable APIs.
+
+</td>
+</tr>
+</table>
 
 ---
 
@@ -177,7 +215,7 @@ Clean business website focused on design clarity and user engagement.
 ---
 
 <!-- ===================== -->
-<!-- 🐍 SNAKE (IMPORTANT) -->
+<!-- 🐍 SNAKE -->
 <!-- ===================== -->
 
 ## 🐍 Contribution Snake
@@ -192,18 +230,18 @@ Clean business website focused on design clarity and user engagement.
 <!-- 📝 WRITING -->
 <!-- ===================== -->
 
-## 📝 Writing & Learning Journey
+## 📝 Writing & Engineering Journey
 
 <p align="center">
 
-As a communication professional, I document my transition into software engineering through structured learning and technical writing.
+I document my transition into software engineering through structured learning and technical writing, bridging communication and backend engineering.
 
 </p>
 
 - Backend engineering concepts (Go, APIs, system design)  
 - Software architecture breakdowns  
 - Developer communication & technical writing  
-- Learning notes on distributed systems  
+- Distributed systems learning notes  
 
 ---
 
@@ -216,8 +254,8 @@ As a communication professional, I document my transition into software engineer
 <p align="center">
 
 Open to:
-- Software Engineering roles  
-- Backend Engineering internships  
+- Backend Engineering roles (Go-focused)  
+- Software Engineering internships  
 - Open-source collaboration  
 - Technical writing opportunities  
 
@@ -226,9 +264,5 @@ Open to:
 ---
 
 <p align="center">
-<b>“Building systems where communication meets computation.”</b>
-</p>
-
-<p align="center">
-⭐ If you find my work valuable, feel free to connect or collaborate.
+<b>⭐ If you find my work valuable, feel free to connect or collaborate.</b>
 </p>
