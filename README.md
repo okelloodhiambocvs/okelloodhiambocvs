@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Okello Odhiambo</h1>
 
 <p align="center">
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&pause=1000&color=0E75B6&center=true&vCenter=true&width=900&lines=Communication+Professional;Software+Engineering+Learner;Technical+Writer;Backend+Developer+in+Progress;Future+AI+Engineer" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&pause=1000&color=0E75B6&center=true&vCenter=true&width=900&lines=Software+Engineering+Learner;Communication+Professional;Technical+Writer;Backend+Developer+in+Progress;Future+AI+Engineer" alt="Typing SVG" />
 </p>
 
 ## 👨‍💻 About Me
