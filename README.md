@@ -469,3 +469,216 @@ My goal isn't simply to consume open source—it is to become an active contribu
 
 ---
 
+<!-- ===================================================================================== -->
+<!--                           TECHNICAL WRITING & COMMUNITY                               -->
+<!-- ===================================================================================== -->
+
+# ✍️ Technical Writing & Knowledge Sharing
+
+<p align="center">
+
+> *"One of the best ways to master software engineering is to teach what you learn."*
+
+</p>
+
+Writing has always been an important part of my professional journey.
+
+As I continue transitioning into software engineering, I document concepts, lessons, and practical experiences to reinforce my learning while helping other aspiring developers.
+
+### 📚 Topics I Write About
+
+- Backend Engineering with Go
+- Software Engineering Fundamentals
+- REST API Development
+- System Design Concepts
+- Technical Communication
+- Career Transition into Technology
+- AI & Emerging Technologies
+- Developer Productivity
+
+---
+
+<p align="center">
+
+## 📰 Read My Articles
+
+<a href="https://dev.to/okelloodhiambo0">
+<img src="https://img.shields.io/badge/Visit%20My%20Dev.to-Articles-0A0A0A?style=for-the-badge&logo=dev.to"/>
+</a>
+
+</p>
+
+---
+
+<!-- ===================================================================================== -->
+<!--                                GITHUB DASHBOARD                                       -->
+<!-- ===================================================================================== -->
+
+# 📊 GitHub Analytics Dashboard
+
+<p align="center">
+
+<img height="175" src="https://github-readme-stats.vercel.app/api?username=okelloodhiambocvs&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github"/>
+
+<img height="175" src="https://streak-stats.demolab.com?user=okelloodhiambocvs&theme=tokyonight&hide_border=true"/>
+
+</p>
+
+<p align="center">
+
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=okelloodhiambocvs&layout=compact&theme=tokyonight&hide_border=true"/>
+
+</p>
+
+---
+
+# 📈 Contribution Activity
+
+<p align="center">
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=okelloodhiambocvs&theme=tokyo-night&hide_border=true"/>
+
+</p>
+
+---
+
+# 🐍 Contribution Snake
+
+<p align="center">
+
+<img src="https://raw.githubusercontent.com/okelloodhiambocvs/okelloodhiambocvs/output/github-contribution-grid-snake-dark.svg"/>
+
+</p>
+
+<p align="center">
+
+<sub>Automatically generated daily using GitHub Actions.</sub>
+
+</p>
+
+---
+
+# 🎯 Learning Goals (2026–2027)
+
+The next stage of my software engineering journey focuses on deepening technical expertise while building production-ready applications.
+
+### 2026
+
+- Master Go for backend engineering
+- Build secure RESTful APIs
+- Learn PostgreSQL in depth
+- Containerize applications using Docker
+- Contribute to open-source projects
+- Strengthen algorithms and data structures
+
+### 2027
+
+- Design distributed systems
+- Learn Kubernetes and cloud-native development
+- Explore event-driven architectures
+- Build scalable backend services
+- Implement CI/CD pipelines
+- Prepare for software engineering interviews
+
+---
+
+# 💼 Services I Can Offer
+
+If you're looking for someone who combines technical ability with strong communication skills, I'd be happy to collaborate.
+
+### Backend Development
+
+- REST API Development
+- Backend Services with Go (Learning Path)
+- Node.js & Express Applications
+- Database Integration
+
+### Frontend Development
+
+- React Applications
+- Responsive Websites
+- Landing Pages
+- UI Improvements
+
+### Technical Communication
+
+- Technical Documentation
+- Developer Guides
+- User Documentation
+- Content Strategy
+
+### Digital Solutions
+
+- Website Development
+- Performance Optimization
+- Portfolio Websites
+- Business Websites
+
+---
+
+# 🤝 Let's Collaborate
+
+I'm always excited to connect with developers, startups, organizations, and communities working on meaningful technology.
+
+I'm currently interested in:
+
+- Backend Engineering (Go)
+- Software Engineering Internships
+- Open Source Contributions
+- Technical Writing
+- Community Building
+- AI & Intelligent Systems
+
+<p align="center">
+
+<a href="mailto:okelloodhiambocvs@gmail.com">
+<img src="https://img.shields.io/badge/Email-Let's%20Talk-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
+</a>
+
+<a href="https://www.linkedin.com/in/okello-odhiambo/">
+<img src="https://img.shields.io/badge/LinkedIn-Let's%20Connect-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
+</a>
+
+</p>
+
+---
+
+# ⚡ Fun Facts
+
+- ☕ I enjoy turning complex ideas into simple, understandable solutions.
+- 📖 I'm passionate about continuous learning and documenting what I learn.
+- 🌍 I believe technology should solve real-world problems.
+- 🧠 My communication background influences how I design software and APIs.
+- 🚀 I'm building toward a career in scalable backend engineering with Go.
+
+---
+
+# 💬 A Personal Quote
+
+<p align="center">
+
+> **"The best software isn't just functional—it communicates, scales, and creates meaningful impact."**
+
+</p>
+
+---
+
+# 🙏 Thank You for Visiting
+
+<p align="center">
+
+Thank you for taking the time to explore my GitHub profile.
+
+Every project here represents another step in my journey toward becoming a backend software engineer focused on building reliable, scalable, and impactful systems.
+
+If you'd like to collaborate, discuss ideas, or simply connect, I'd love to hear from you.
+
+</p>
+
+---
+
+<p align="center">
+
+### ⭐ If you enjoyed exploring my work, consider following my journey and starring a repository that interests you.
+
+</p>
