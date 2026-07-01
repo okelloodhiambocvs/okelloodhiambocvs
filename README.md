@@ -138,3 +138,334 @@ Communication & Digital Media
 Every stage of my journey has strengthened my ability to combine technical expertise with effective communication, enabling me to build software that is both functional and meaningful.
 
 ---
+
+<!-- ===================================================================================== -->
+<!--                            CURRENT ENGINEERING FOCUS                                  -->
+<!-- ===================================================================================== -->
+
+# 🚧 What I'm Currently Building
+
+<p align="center">
+
+*"Progress isn't measured by how much you know, but by what you consistently build."*
+
+</p>
+
+Currently, my engineering journey is centered around building practical software while deepening my understanding of modern backend engineering.
+
+### 🔨 Current Areas of Focus
+
+| Focus Area | Current Goal |
+|------------|--------------|
+| 🐹 Go (Golang) | Build scalable backend services and REST APIs |
+| 🌐 Backend Engineering | Design maintainable server-side applications |
+| 🧩 System Design | Learn scalable software architecture principles |
+| 🗄 Databases | PostgreSQL, MySQL & database optimization |
+| ☁ Cloud Computing | Deployment, Docker & cloud-native applications |
+| 🤖 Artificial Intelligence | Integrating AI into real-world software solutions |
+| 📖 Technical Writing | Documenting engineering concepts clearly |
+
+---
+
+# 🎯 Core Engineering Competencies
+
+<p align="center">
+
+*"I don't just want to write software. I want to engineer reliable systems."*
+
+</p>
+
+## Backend Engineering
+
+✔ REST API Development
+
+✔ Go (Golang)
+
+✔ Node.js
+
+✔ Express.js
+
+✔ Authentication
+
+✔ CRUD Applications
+
+✔ JSON APIs
+
+---
+
+## Frontend Development
+
+✔ React
+
+✔ JavaScript
+
+✔ TypeScript (Learning)
+
+✔ HTML5
+
+✔ CSS3
+
+✔ Tailwind CSS
+
+✔ Responsive Design
+
+---
+
+## Software Engineering
+
+✔ Git & GitHub
+
+✔ Object-Oriented Programming
+
+✔ Clean Code Principles
+
+✔ Debugging
+
+✔ Software Documentation
+
+✔ Technical Communication
+
+✔ Problem Solving
+
+✔ Agile Development
+
+---
+
+## Engineering Mindset
+
+✔ Continuous Learning
+
+✔ Collaboration
+
+✔ Systems Thinking
+
+✔ User-Centered Design
+
+✔ Scalability
+
+✔ Maintainability
+
+✔ Documentation First
+
+✔ Communication Excellence
+
+---
+
+# 🛠 Technology Stack
+
+<p align="center">
+
+<img src="https://skillicons.dev/icons?i=go" height="55"/>
+
+<img src="https://skillicons.dev/icons?i=python" height="55"/>
+
+<img src="https://skillicons.dev/icons?i=javascript" height="55"/>
+
+<img src="https://skillicons.dev/icons?i=typescript" height="55"/>
+
+<img src="https://skillicons.dev/icons?i=react" height="55"/>
+
+<img src="https://skillicons.dev/icons?i=nodejs" height="55"/>
+
+<img src="https://skillicons.dev/icons?i=express" height="55"/>
+
+<img src="https://skillicons.dev/icons?i=html" height="55"/>
+
+<img src="https://skillicons.dev/icons?i=css" height="55"/>
+
+<img src="https://skillicons.dev/icons?i=tailwind" height="55"/>
+
+<img src="https://skillicons.dev/icons?i=mongodb" height="55"/>
+
+<img src="https://skillicons.dev/icons?i=mysql" height="55"/>
+
+<img src="https://skillicons.dev/icons?i=postgres" height="55"/>
+
+<img src="https://skillicons.dev/icons?i=docker" height="55"/>
+
+<img src="https://skillicons.dev/icons?i=git" height="55"/>
+
+<img src="https://skillicons.dev/icons?i=github" height="55"/>
+
+<img src="https://skillicons.dev/icons?i=linux" height="55"/>
+
+<img src="https://skillicons.dev/icons?i=vscode" height="55"/>
+
+</p>
+
+---
+
+# 🗺 Software Engineering Roadmap
+
+<p align="center">
+
+*"Every project is another step toward mastering software engineering."*
+
+</p>
+
+## 2026
+
+✅ Strengthen Go fundamentals
+
+✅ Build production-ready REST APIs
+
+✅ Learn Docker
+
+✅ Learn PostgreSQL deeply
+
+✅ Build authentication systems
+
+✅ Master Git workflows
+
+---
+
+## 2027
+
+⬜ Build distributed backend services
+
+⬜ Learn Kubernetes
+
+⬜ Cloud deployment
+
+⬜ Event-driven architecture
+
+⬜ CI/CD pipelines
+
+⬜ System Design interviews
+
+---
+
+## Long-Term Vision
+
+My goal is to become a backend software engineer capable of designing, developing, deploying, and maintaining scalable software systems that serve thousands—eventually millions—of users.
+
+I aspire to contribute to open-source software, mentor upcoming developers, and build technology that creates meaningful impact across Africa and beyond.
+
+---
+
+# 🚀 Featured Projects
+
+<p align="center">
+
+*"Every project reflects another milestone in my engineering journey."*
+
+</p>
+
+<table>
+
+<tr>
+
+<td width="50%" valign="top">
+
+## 🌐 Personal Portfolio
+
+Modern portfolio website showcasing my software engineering journey, projects, experience, and technical growth.
+
+**Highlights**
+
+- Responsive Design
+- Modern UI
+- React + Vite
+- Tailwind CSS
+
+🔗 **Live**
+
+https://okello-odhiambo.vercel.app/
+
+</td>
+
+<td width="50%" valign="top">
+
+## 🏢 Philip Leakey Foundation
+
+Developed a responsive organizational website to strengthen digital visibility and user engagement.
+
+**Highlights**
+
+- React
+- Responsive Layout
+- Accessibility
+- Performance Optimization
+
+🔗 **Live**
+
+https://philip-leakey-okello.onrender.com/
+
+</td>
+
+</tr>
+
+<tr>
+
+<td width="50%" valign="top">
+
+## 🏗 Niara Constructions
+
+Corporate construction website featuring modern layouts, responsive interfaces, and intuitive navigation.
+
+🔗
+
+https://niara-constructions-production.up.railway.app/
+
+</td>
+
+<td width="50%" valign="top">
+
+## 🍽 Hueri Restaurant
+
+Restaurant website focused on user experience, branding consistency, and responsiveness.
+
+🔗
+
+https://hueri-production.up.railway.app/
+
+</td>
+
+</tr>
+
+<tr>
+
+<td width="50%" valign="top">
+
+## 🎨 Ahzuriah
+
+Business website emphasizing clean interfaces and simplicity.
+
+🔗
+
+https://ahzuriah.github.io/
+
+</td>
+
+<td width="50%" valign="top">
+
+## 🚀 Next Project
+
+Current Mission:
+
+Building scalable backend applications using Go, PostgreSQL, Docker, and modern software engineering practices.
+
+</td>
+
+</tr>
+
+</table>
+
+---
+
+# 🌍 Open Source Journey
+
+Although I am still early in my software engineering journey, I strongly believe in the value of open source.
+
+Over the coming months, I plan to:
+
+- Contribute to Go open-source projects
+- Publish reusable backend utilities
+- Share learning resources
+- Improve technical documentation
+- Support beginner developers entering technology
+
+My goal isn't simply to consume open source—it is to become an active contributor to it.
+
+---
+
