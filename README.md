@@ -48,3 +48,69 @@ My background in strategic communication, technical writing, digital marketing, 
 > *"Technology is most impactful when combined with effective communication and a commitment to solving real-world challenges."* 🚀
 >
 > 
+
+## 🛠️ Tech Stack
+
+<p align="center">
+
+<img src="https://skillicons.dev/icons?i=html,css,javascript,typescript,react,nodejs,python,git,github,vscode,figma,linux,vite,tailwind,mongodb,mysql&perline=8" />
+
+</p>
+
+## 🌱 Currently Learning
+
+- Golang
+- JavaScript (ES6+)
+- React.js
+- Node.js & Express.js
+- Python
+- REST APIs
+- SQL & Database Design
+- Git & GitHub Best Practices
+- Artificial Intelligence Fundamentals
+- Cloud Computing
+
+## 📊 GitHub Statistics
+
+<p align="center">
+
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=okelloodhiambocvs&show_icons=true&theme=tokyonight&hide_border=true"/>
+
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=okelloodhiambocvs&layout=compact&theme=tokyonight&hide_border=true"/>
+
+</p>
+
+## 🔥 GitHub Streak
+
+<p align="center">
+
+<img src="https://streak-stats.demolab.com?user=okelloodhiambocvs&theme=tokyonight&hide_border=true"/>
+
+</p>
+
+## 🏆 GitHub Achievements
+
+<p align="center">
+
+<img src="https://github-profile-trophy.vercel.app/?username=okelloodhiambocvs&theme=algolia&no-frame=true&row=1&column=6"/>
+
+</p>
+
+## 🚀 Featured Projects
+
+| Project | Description | Tech |
+|---------|-------------|------|
+| 🌐 Portfolio Website | Personal portfolio showcasing my journey, projects, and experience. | Golang, React, Vite, Tailwind CSS |
+| 💼 Communication Projects | Digital communication, technical writing, and media projects. | Content Strategy |
+| ⚙️ JavaScript Projects | Practice projects focused on JavaScript fundamentals. | JavaScript |
+| 🐍 Python Projects | Automation scripts and beginner Python applications. | Python |
+
+## 📈 Contribution Graph
+
+<p align="center">
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=okelloodhiambocvs&theme=tokyo-night&hide_border=true"/>
+
+</p>
+
+ 
