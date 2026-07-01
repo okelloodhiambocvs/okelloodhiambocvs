@@ -1,84 +1,140 @@
-<h1 align="center">Hi 👋, I'm Okello Odhiambo</h1>
+<!-- ===================== -->
+<!-- 🎨 CUSTOM BANNER -->
+<!-- ===================== -->
 
 <p align="center">
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&pause=1000&color=0E75B6&center=true&vCenter=true&width=900&lines=Software+Engineering+Learner;Communication+Professional;Technical+Writer;Backend+Developer+in+Progress;Future+AI+Engineer" alt="Typing SVG" />
-</p>
-
-## 👨‍💻 About Me
-
-I'm a **Communication and Digital Media professional** transitioning into **Software Engineering**, with a growing passion for building scalable digital solutions that solve real-world problems.
-
-My background in strategic communication, technical writing, digital marketing, and stakeholder engagement has strengthened my ability to translate complex ideas into clear, user-focused experiences. Today, I'm applying those strengths to software development while continuously expanding my expertise in modern web technologies and AI.
-
-- 🌱 Currently learning **Golang, JavaScript, React, Python, Node.js, Git & GitHub**
-- 💻 Interested in **Backend Development, AI, APIs, and Cloud Technologies**
-- ✍️ Experienced in **Technical Writing, Digital Communications, and Content Strategy**
-- 🤝 Open to internships, freelance projects, open-source collaborations, and graduate software engineering opportunities
-- 🌍 Portfolio: **https://okello-odhiambo.vercel.app/**
-- 📫 Email: **okelloodhiambocvs@gmail.com**
-
-## 🚀 What I'm Working On
-
-- 🔭 Building modern full-stack web applications KAZIFY
-- 🌱 Deepening my knowledge of Backend Development with, Golang, Node.js and Express
-- 🤖 Exploring Artificial Intelligence and Machine Learning
-- 📚 Strengthening my Data Structures & Algorithms skills
-- ☁️ Learning Cloud Computing and Deployment
-
-## 🌐 Connect with Me
-
-<p align="center">
-  <a href="https://okello-odhiambo.vercel.app/" target="_blank">
-    <img src="https://img.shields.io/badge/Portfolio-Visit%20Website-0A66C2?style=for-the-badge&logo=vercel&logoColor=white" />
-  </a>
-
-  <a href="https://www.linkedin.com/in/okello-odhiambo/" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
-  </a>
-
-  <a href="https://x.com/okelloodhiambocvs" target="_blank">
-    <img src="https://img.shields.io/badge/X-Follow-000000?style=for-the-badge&logo=x&logoColor=white" />
-  </a>
-
-  <a href="https://github.com/okelloodhiambocvs" target="_blank">
-    <img src="https://img.shields.io/badge/GitHub-Follow-181717?style=for-the-badge&logo=github&logoColor=white" />
-  </a>
-
-  <a href="mailto:okelloodhiambocvs@gmail.com">
-    <img src="https://img.shields.io/badge/Email-Contact-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
-  </a>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1b2a,100:1b263b&height=220&section=header&text=Okello%20Odhiambo&fontSize=40&fontColor=ffffff&animation=fadeIn&fontAlignY=35"/>
 </p>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=okelloodhiambocvs&label=Profile%20Views&color=0e75b6&style=flat" alt="Profile Views" />
+  <b>Bridging Communication, Software Engineering & Intelligent Systems</b>
 </p>
 
-> *"Technology is most impactful when combined with effective communication and a commitment to solving real-world challenges."* 🚀
->
-> 
+---
 
-## 🛠️ Tech Stack
+<!-- ===================== -->
+<!-- 👤 INTRO -->
+<!-- ===================== -->
+
+## 👋 About Me
+
+I am a **Communication Professional transitioning into Software Engineering**, focused on building scalable, real-world digital systems.
+
+I combine:
+- Communication strategy & clarity of thought  
+- Software engineering & system design  
+- Emerging interest in AI systems  
+
+My goal is to build **impact-driven software products that solve real problems in Africa and beyond.**
+
+---
+
+<!-- ===================== -->
+<!-- 🔗 SOCIAL LINKS -->
+<!-- ===================== -->
+
+## 🌐 Connect With Me
 
 <p align="center">
 
-<img src="https://skillicons.dev/icons?i=Golang,html,css,javascript,typescript,react,nodejs,python,git,github,vscode,figma,linux,vite,tailwind,mongodb,mysql&perline=8" />
+<a href="https://okello-odhiambo.vercel.app/" target="_blank">
+<img src="https://img.shields.io/badge/Portfolio-Website-0A66C2?style=for-the-badge&logo=vercel&logoColor=white"/>
+</a>
+
+<a href="https://www.linkedin.com/in/okello-odhiambo/" target="_blank">
+<img src="https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
+</a>
+
+<a href="https://x.com/okelloodhiambocvs" target="_blank">
+<img src="https://img.shields.io/badge/X-Follow-000000?style=for-the-badge&logo=x&logoColor=white"/>
+</a>
+
+<a href="mailto:okelloodhiambocvs@gmail.com">
+<img src="https://img.shields.io/badge/Email-Contact-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
+</a>
 
 </p>
 
-## 🌱 Currently Learning
+---
 
-- Golang
-- JavaScript (ES6+)
-- React.js
-- Node.js & Express.js
-- Python
-- REST APIs
-- SQL & Database Design
-- Git & GitHub Best Practices
-- Artificial Intelligence Fundamentals
-- Cloud Computing
+<!-- ===================== -->
+<!-- 🛠️ TECH STACK -->
+<!-- ===================== -->
 
-## 📊 GitHub Statistics
+## 🛠️ Tech Stack (Core Focus: Go First)
+
+<p align="center">
+
+<img src="https://skillicons.dev/icons?i=go,python,javascript,typescript,react,nodejs,express,html,css,tailwind,git,github,vscode,mysql,mongodb,docker&perline=8" />
+
+</p>
+
+---
+
+<!-- ===================== -->
+<!-- 🚧 CURRENTLY BUILDING -->
+<!-- ===================== -->
+
+## 🚧 Currently Building
+
+- ⚙️ Backend systems using **Go (Golang)** as primary language
+- 🌐 Full-stack web applications (React + Node.js + Go APIs)
+- 🧠 Exploring system design and distributed architecture
+- 🤖 AI-assisted applications and automation tools
+- 📦 API-first applications with clean architecture
+
+---
+
+<!-- ===================== -->
+<!-- 🚀 PROJECTS -->
+<!-- ===================== -->
+
+## 🚀 Featured Projects
+
+### 🌐 Portfolio Website
+Personal developer portfolio showcasing my journey, projects, and growth.
+
+🔗 https://okello-odhiambo.vercel.app/  
+🛠 React • Vite • Tailwind CSS  
+
+---
+
+### 🏢 Philip Leakey Foundation Website
+Professional organizational website improving digital presence and accessibility.
+
+🔗 https://philip-leakey-okello.onrender.com/  
+🛠 React • JavaScript • CSS  
+
+---
+
+### 🏗️ Niara Constructions Platform
+Corporate website designed for construction business visibility and service presentation.
+
+🔗 https://niara-constructions-production.up.railway.app/  
+🛠 React • Tailwind • UI Design  
+
+---
+
+### 🍽️ Hueri Restaurant Website
+Modern restaurant UI with responsive design and user experience focus.
+
+🔗 https://hueri-production.up.railway.app/  
+🛠 React • CSS • JavaScript  
+
+---
+
+### 🎨 Ahzuriah Project
+Business website focused on clean UI and professional presentation.
+
+🔗 https://ahzuriah.github.io/  
+
+---
+
+<!-- ===================== -->
+<!-- 📊 GITHUB STATS -->
+<!-- ===================== -->
+
+## 📊 GitHub Analytics
 
 <p align="center">
 
@@ -88,135 +144,66 @@ My background in strategic communication, technical writing, digital marketing, 
 
 </p>
 
-## 🔥 GitHub Streak
+---
+
+<!-- ===================== -->
+<!-- 🔥 STREAK -->
+<!-- ===================== -->
+
+## 🔥 Contribution Streak
 
 <p align="center">
-
 <img src="https://streak-stats.demolab.com?user=okelloodhiambocvs&theme=tokyonight&hide_border=true"/>
-
 </p>
 
-## 🏆 GitHub Achievements
+---
 
-<p align="center">
-
-<img src="https://github-profile-trophy.vercel.app/?username=okelloodhiambocvs&theme=algolia&no-frame=true&row=1&column=6"/>
-
-</p>
-
-## 🚀 Featured Projects
-
-<table>
-<tr>
-<td width="50%">
-
-### 🌐 Personal Portfolio
-A modern portfolio website showcasing my journey, skills, projects, and professional experience.
-
-**Tech Stack**
-- React
-- Vite
-- Tailwind CSS
-
-🔗 **Live Demo**
-https://okello-odhiambo.vercel.app/
-
-</td>
-
-<td width="50%">
-
-### 🏢 Philip Leakey Foundation
-A responsive website built for the Philip Leakey Foundation to improve its online presence and accessibility.
-
-**Tech Stack**
-- React
-- CSS
-- JavaScript
-
-🔗 **Live Demo**
-https://philip-leakey-okello.onrender.com/
-
-</td>
-</tr>
-
-<tr>
-<td width="50%">
-
-### 🏗️ Niara Constructions
-A professional construction company website featuring modern UI, responsive layouts, and service presentation.
-
-**Tech Stack**
-- React
-- Tailwind CSS
-- JavaScript
-
-🔗 **Live Demo**
-https://niara-constructions-production.up.railway.app/
-
-</td>
-
-<td width="50%">
-
-### 🍽️ Hueri Restaurant
-A clean and responsive restaurant website designed to provide an engaging user experience.
-
-**Tech Stack**
-- React
-- CSS
-- JavaScript
-
-🔗 **Live Demo**
-https://hueri-production.up.railway.app/
-
-</td>
-</tr>
-
-<tr>
-<td width="50%">
-
-### 🎨 Ahzuriah
-A modern business website focused on clean design, responsiveness, and user experience.
-
-🔗 **Live Demo**
-https://ahzuriah.github.io/
-
-</td>
-
-<td width="50%">
-
-### 🚀 More Projects Coming...
-I'm actively building more full-stack applications and open-source projects.
-
-</td>
-</tr>
-</table>
-
-## 📈 Contribution Graph
-
-<p align="center">
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=okelloodhiambocvs&theme=tokyo-night&hide_border=true"/>
-
-</p>
+<!-- ===================== -->
+<!-- 🐍 SNAKE -->
+<!-- ===================== -->
 
 ## 🐍 Contribution Snake
 
 <p align="center">
-
-<img src="https://raw.githubusercontent.com/okelloodhiambocvs/okelloodhiambocvs/output/github-contribution-grid-snake-dark.svg" alt="snake animation" />
-
+<img src="https://raw.githubusercontent.com/okelloodhiambocvs/okelloodhiambocvs/output/github-contribution-grid-snake-dark.svg"/>
 </p>
 
- ---
+---
 
-<h3 align="center">
+<!-- ===================== -->
+<!-- 📝 BLOG -->
+<!-- ===================== -->
 
-⭐ Thanks for visiting my GitHub Profile! ⭐
+## 📝 Latest Thinking / Writing
 
-</h3>
+As a communication professional, I actively document my learning journey.
+
+- Technical writing on software engineering concepts  
+- Breakdown of backend systems and APIs  
+- Communication between humans and systems  
+
+📌 Blog section coming soon (Medium / Dev.to integration)
+
+---
+
+<!-- ===================== -->
+<!-- 💼 FOOTER -->
+<!-- ===================== -->
+
+## 💼 Let's Build Together
+
+I am open to:
+- Software engineering internships  
+- Backend development roles  
+- Open-source collaboration  
+- Technical writing opportunities  
+
+---
 
 <p align="center">
+<b>“Building systems that connect communication and computation.”</b>
+</p>
 
-If you like my work, feel free to connect, collaborate, or explore my repositories.
-
+<p align="center">
+⭐ If you find my work interesting, feel free to connect or collaborate.
 </p>
