@@ -29,12 +29,12 @@ Building scalable software systems with <strong>Go</strong> while leveraging a s
 
 ---
 
-# 🌍 Connect With Me
+# CONNECT WITH ME
 
 <p align="center">
 
 <a href="https://okello-odhiambo.vercel.app/">
-<img src="https://img.shields.io/badge/🌐_Portfolio-Visit_Website-0A66C2?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/_Portfolio-Visit_Website-0A66C2?style=for-the-badge"/>
 </a>
 
 <a href="https://www.linkedin.com/in/okello-odhiambo/">
@@ -61,7 +61,7 @@ Building scalable software systems with <strong>Go</strong> while leveraging a s
 
 ---
 
-# 📈 GitHub Snapshot
+# GITHUB SNAPSHOT
 
 <p align="center">
 
@@ -75,9 +75,9 @@ Building scalable software systems with <strong>Go</strong> while leveraging a s
 
 ---
 
-# 👨‍💻 About Me
+# PERSONAL BACKGROUND
 
-I'm a software engineering learner with a background in **communication, digital strategy, and technical writing**, currently transitioning into backend software engineering with **Go (Golang)** as my primary engineering language.
+I'm a software engineering learner with a background in **PR and communication, digital strategy, and technical writing**, currently transitioning into backend software engineering with **Go (Golang)** as my primary engineering language.
 
 My journey is driven by a belief that great software is built through a combination of **technical excellence, thoughtful communication, and continuous learning**.
 
@@ -95,7 +95,7 @@ Beyond coding, I enjoy documenting my learning journey, writing technical articl
 
 ---
 
-# 🧠 Engineering Philosophy
+# ENGINEERING PHILOSOPHY
 
 > *"Good software doesn't just work—it communicates."*
 
@@ -114,10 +114,10 @@ Whether writing documentation, designing APIs, or architecting backend services,
 
 ---
 
-# 🚀 Career Journey
+# CAREER JOURNEY
 
 ```text
-Communication & Digital Media
+PR, Communication & Digital Media
             │
             ▼
  Technical Writing
@@ -143,7 +143,7 @@ Every stage of my journey has strengthened my ability to combine technical exper
 <!--                            CURRENT ENGINEERING FOCUS                                  -->
 <!-- ===================================================================================== -->
 
-# 🚧 What I'm Currently Building
+# WHAT I'M CURRENTLY BUILDING
 
 <p align="center">
 
@@ -153,21 +153,21 @@ Every stage of my journey has strengthened my ability to combine technical exper
 
 Currently, my engineering journey is centered around building practical software while deepening my understanding of modern backend engineering.
 
-### 🔨 Current Areas of Focus
+### Current Areas of Focus
 
 | Focus Area | Current Goal |
 |------------|--------------|
-| 🐹 Go (Golang) | Build scalable backend services and REST APIs |
-| 🌐 Backend Engineering | Design maintainable server-side applications |
-| 🧩 System Design | Learn scalable software architecture principles |
-| 🗄 Databases | PostgreSQL, MySQL & database optimization |
-| ☁ Cloud Computing | Deployment, Docker & cloud-native applications |
-| 🤖 Artificial Intelligence | Integrating AI into real-world software solutions |
-| 📖 Technical Writing | Documenting engineering concepts clearly |
+| Go (Golang) | Build scalable backend services and REST APIs |
+| Backend Engineering | Design maintainable server-side applications |
+| System Design | Learn scalable software architecture principles |
+| Databases | PostgreSQL, MySQL & database optimization |
+| Cloud Computing | Deployment, Docker & cloud-native applications |
+| Artificial Intelligence | Integrating AI into real-world software solutions |
+| Technical Writing | Documenting engineering concepts clearly |
 
 ---
 
-# 🎯 Core Engineering Competencies
+# CORE ENGINEERING COMPETENCIES
 
 <p align="center">
 
@@ -178,17 +178,11 @@ Currently, my engineering journey is centered around building practical software
 ## Backend Engineering
 
 ✔ REST API Development
-
 ✔ Go (Golang)
-
 ✔ Node.js
-
 ✔ Express.js
-
 ✔ Authentication
-
 ✔ CRUD Applications
-
 ✔ JSON APIs
 
 ---
@@ -196,17 +190,11 @@ Currently, my engineering journey is centered around building practical software
 ## Frontend Development
 
 ✔ React
-
 ✔ JavaScript
-
 ✔ TypeScript (Learning)
-
 ✔ HTML5
-
 ✔ CSS3
-
 ✔ Tailwind CSS
-
 ✔ Responsive Design
 
 ---
@@ -214,19 +202,12 @@ Currently, my engineering journey is centered around building practical software
 ## Software Engineering
 
 ✔ Git & GitHub
-
 ✔ Object-Oriented Programming
-
 ✔ Clean Code Principles
-
 ✔ Debugging
-
 ✔ Software Documentation
-
 ✔ Technical Communication
-
-✔ Problem Solving
-
+✔ Analytical Problem Solving
 ✔ Agile Development
 
 ---
@@ -234,24 +215,17 @@ Currently, my engineering journey is centered around building practical software
 ## Engineering Mindset
 
 ✔ Continuous Learning
-
-✔ Collaboration
-
+✔ Cross-Functional Collaboration
 ✔ Systems Thinking
-
 ✔ User-Centered Design
-
 ✔ Scalability
-
 ✔ Maintainability
-
 ✔ Documentation First
-
 ✔ Communication Excellence
 
 ---
 
-# 🛠 Technology Stack
+# TECHNOLOGY STACK
 
 <p align="center">
 
@@ -295,7 +269,7 @@ Currently, my engineering journey is centered around building practical software
 
 ---
 
-# 🗺 Software Engineering Roadmap
+# SOFTWARE ENGINEERING ROADMAP
 
 <p align="center">
 
@@ -306,15 +280,10 @@ Currently, my engineering journey is centered around building practical software
 ## 2026
 
 ✅ Strengthen Go fundamentals
-
 ✅ Build production-ready REST APIs
-
 ✅ Learn Docker
-
 ✅ Learn PostgreSQL deeply
-
 ✅ Build authentication systems
-
 ✅ Master Git workflows
 
 ---
@@ -322,15 +291,10 @@ Currently, my engineering journey is centered around building practical software
 ## 2027
 
 ⬜ Build distributed backend services
-
 ⬜ Learn Kubernetes
-
 ⬜ Cloud deployment
-
 ⬜ Event-driven architecture
-
 ⬜ CI/CD pipelines
-
 ⬜ System Design interviews
 
 ---
@@ -343,7 +307,7 @@ I aspire to contribute to open-source software, mentor upcoming developers, and 
 
 ---
 
-# 🚀 Featured Projects
+# FEATURED PROJECTS
 
 <p align="center">
 
@@ -357,7 +321,7 @@ I aspire to contribute to open-source software, mentor upcoming developers, and 
 
 <td width="50%" valign="top">
 
-## 🌐 Personal Portfolio
+## Personal Portfolio
 
 Modern portfolio website showcasing my software engineering journey, projects, experience, and technical growth.
 
@@ -368,7 +332,7 @@ Modern portfolio website showcasing my software engineering journey, projects, e
 - React + Vite
 - Tailwind CSS
 
-🔗 **Live**
+**Live**
 
 https://okello-odhiambo.vercel.app/
 
@@ -376,7 +340,7 @@ https://okello-odhiambo.vercel.app/
 
 <td width="50%" valign="top">
 
-## 🏢 Philip Leakey Foundation
+## Philip Leakey Foundation
 
 Developed a responsive organizational website to strengthen digital visibility and user engagement.
 
@@ -387,7 +351,7 @@ Developed a responsive organizational website to strengthen digital visibility a
 - Accessibility
 - Performance Optimization
 
-🔗 **Live**
+**Live**
 
 https://philip-leakey-okello.onrender.com/
 
@@ -399,11 +363,9 @@ https://philip-leakey-okello.onrender.com/
 
 <td width="50%" valign="top">
 
-## 🏗 Niara Constructions
+## Niara Constructions
 
 Corporate construction website featuring modern layouts, responsive interfaces, and intuitive navigation.
-
-🔗
 
 https://niara-constructions-production.up.railway.app/
 
@@ -411,11 +373,9 @@ https://niara-constructions-production.up.railway.app/
 
 <td width="50%" valign="top">
 
-## 🍽 Hueri Restaurant
+## Hueri Consultancy
 
 Restaurant website focused on user experience, branding consistency, and responsiveness.
-
-🔗
 
 https://hueri-production.up.railway.app/
 
@@ -427,11 +387,9 @@ https://hueri-production.up.railway.app/
 
 <td width="50%" valign="top">
 
-## 🎨 Ahzuriah
+## Ahzuriah Constructions
 
 Business website emphasizing clean interfaces and simplicity.
-
-🔗
 
 https://ahzuriah.github.io/
 
@@ -439,7 +397,7 @@ https://ahzuriah.github.io/
 
 <td width="50%" valign="top">
 
-## 🚀 Next Project
+## Next Project
 
 Current Mission:
 
@@ -453,7 +411,7 @@ Building scalable backend applications using Go, PostgreSQL, Docker, and modern 
 
 ---
 
-# 🌍 Open Source Journey
+# OPEN SOURCE JOURNEY
 
 Although I am still early in my software engineering journey, I strongly believe in the value of open source.
 
@@ -473,7 +431,7 @@ My goal isn't simply to consume open source—it is to become an active contribu
 <!--                           TECHNICAL WRITING & COMMUNITY                               -->
 <!-- ===================================================================================== -->
 
-# ✍️ Technical Writing & Knowledge Sharing
+# TECHNICAL WRITING AND KNOWLEDGE SHARING
 
 <p align="center">
 
@@ -485,7 +443,7 @@ Writing has always been an important part of my professional journey.
 
 As I continue transitioning into software engineering, I document concepts, lessons, and practical experiences to reinforce my learning while helping other aspiring developers.
 
-### 📚 Topics I Write About
+### Topics I Write About
 
 - Backend Engineering with Go
 - Software Engineering Fundamentals
@@ -500,7 +458,7 @@ As I continue transitioning into software engineering, I document concepts, less
 
 <p align="center">
 
-## 📰 Read My Articles
+## Read My Articles
 
 <a href="https://dev.to/okelloodhiambo0">
 <img src="https://img.shields.io/badge/Visit%20My%20Dev.to-Articles-0A0A0A?style=for-the-badge&logo=dev.to"/>
@@ -514,7 +472,7 @@ As I continue transitioning into software engineering, I document concepts, less
 <!--                                GITHUB DASHBOARD                                       -->
 <!-- ===================================================================================== -->
 
-# 📊 GitHub Analytics Dashboard
+# GITHUB ANALYTICALS DASHBOARD
 
 <p align="center">
 
@@ -532,7 +490,7 @@ As I continue transitioning into software engineering, I document concepts, less
 
 ---
 
-# 📈 Contribution Activity
+# CONTRIBUTON ACTIVITY
 
 <p align="center">
 
@@ -542,7 +500,7 @@ As I continue transitioning into software engineering, I document concepts, less
 
 ---
 
-# 🐍 Contribution Snake
+# CONTRIBUTION SNAKE
 
 <p align="center">
 
@@ -556,7 +514,7 @@ As I continue transitioning into software engineering, I document concepts, less
 
 ---
 
-# 🎯 Learning Goals (2026–2027)
+# LEARNING GOALS (2026–2027)
 
 The next stage of my software engineering journey focuses on deepening technical expertise while building production-ready applications.
 
@@ -580,7 +538,7 @@ The next stage of my software engineering journey focuses on deepening technical
 
 ---
 
-# 💼 Services I Can Offer
+# SERVICES I CAN OFFER
 
 If you're looking for someone who combines technical ability with strong communication skills, I'd be happy to collaborate.
 
@@ -614,7 +572,7 @@ If you're looking for someone who combines technical ability with strong communi
 
 ---
 
-# 🤝 Let's Collaborate
+# LET'S COLLABORATE AND WORK
 
 I'm always excited to connect with developers, startups, organizations, and communities working on meaningful technology.
 
@@ -643,15 +601,15 @@ I'm currently interested in:
 
 # ⚡ Fun Facts
 
-- ☕ I enjoy turning complex ideas into simple, understandable solutions.
-- 📖 I'm passionate about continuous learning and documenting what I learn.
-- 🌍 I believe technology should solve real-world problems.
-- 🧠 My communication background influences how I design software and APIs.
-- 🚀 I'm building toward a career in scalable backend engineering with Go.
+- I enjoy turning complex ideas into simple, understandable solutions.
+- I'm passionate about continuous learning and documenting what I learn.
+- I believe technology should solve real-world problems.
+- My communication background influences how I design software and APIs.
+- I'm building toward a career in scalable backend engineering with Go.
 
 ---
 
-# 💬 A Personal Quote
+# A PERSONAL QUOTE
 
 <p align="center">
 
@@ -661,7 +619,7 @@ I'm currently interested in:
 
 ---
 
-# 🙏 Thank You for Visiting
+# THANK YOU FOR VISITING, KARIBU TENA, WARWAKI KENDO
 
 <p align="center">
 
@@ -677,6 +635,6 @@ If you'd like to collaborate, discuss ideas, or simply connect, I'd love to hear
 
 <p align="center">
 
-### ⭐ If you enjoyed exploring my work, consider following my journey and starring a repository that interests you.
+### If you enjoyed exploring my work, consider following my journey and starring a repository that interests you.
 
 </p>
