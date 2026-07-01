@@ -546,14 +546,12 @@ As I continue transitioning into software engineering, I document concepts, less
 
 <p align="center">
 
-<img src="https://raw.githubusercontent.com/okelloodhiambocvs/okelloodhiambocvs/output/github-contribution-grid-snake-dark.svg"/>
+<img src="https://raw.githubusercontent.com/okelloodhiambocvs/okelloodhiambocvs/output/github-contribution-grid-snake.svg" alt="Contribution Snake Animation"/>
 
 </p>
 
 <p align="center">
-
-<sub>Automatically generated daily using GitHub Actions.</sub>
-
+<sub>Automatically updated every day using GitHub Actions.</sub>
 </p>
 
 ---
