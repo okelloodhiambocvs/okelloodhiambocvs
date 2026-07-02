@@ -13,7 +13,7 @@
 
 ---
 
-<h1 align="center">HELLO, HABARI! I AM BRAYAN OKELLO ODHIAMBO A.K.A BATOH</h1>
+<h1 align="center">VIPI! I AM BRAYAN OKELLO ODHIAMBO A.K.A BATOH</h1>
 
 <p align="center">
 
@@ -178,11 +178,17 @@ Currently, my engineering journey is centered around building practical software
 ## Backend Engineering
 
 ✔ REST API Development
+
 ✔ Go (Golang)
+
 ✔ Node.js
+
 ✔ Express.js
+
 ✔ Authentication
+
 ✔ CRUD Applications
+
 ✔ JSON APIs
 
 ---
@@ -190,11 +196,17 @@ Currently, my engineering journey is centered around building practical software
 ## Frontend Development
 
 ✔ React
+
 ✔ JavaScript
+
 ✔ TypeScript (Learning)
+
 ✔ HTML5
+
 ✔ CSS3
+
 ✔ Tailwind CSS
+
 ✔ Responsive Design
 
 ---
@@ -202,12 +214,19 @@ Currently, my engineering journey is centered around building practical software
 ## Software Engineering
 
 ✔ Git & GitHub
+
 ✔ Object-Oriented Programming
+
 ✔ Clean Code Principles
+
 ✔ Debugging
+
 ✔ Software Documentation
+
 ✔ Technical Communication
+
 ✔ Analytical Problem Solving
+
 ✔ Agile Development
 
 ---
@@ -215,12 +234,19 @@ Currently, my engineering journey is centered around building practical software
 ## Engineering Mindset
 
 ✔ Continuous Learning
+
 ✔ Cross-Functional Collaboration
+
 ✔ Systems Thinking
+
 ✔ User-Centered Design
+
 ✔ Scalability
+
 ✔ Maintainability
+
 ✔ Documentation First
+
 ✔ Communication Excellence
 
 ---
@@ -279,23 +305,33 @@ Currently, my engineering journey is centered around building practical software
 
 ## 2026
 
-✅ Strengthen Go fundamentals
-✅ Build production-ready REST APIs
-✅ Learn Docker
-✅ Learn PostgreSQL deeply
-✅ Build authentication systems
-✅ Master Git workflows
+✔ Strengthen Go fundamentals
+
+✔ Build production-ready REST APIs
+
+✔ Learn Docker
+
+✔ Learn PostgreSQL deeply
+
+✔ Build authentication systems
+
+✔ Master Git workflows
 
 ---
 
 ## 2027
 
-⬜ Build distributed backend services
-⬜ Learn Kubernetes
-⬜ Cloud deployment
-⬜ Event-driven architecture
-⬜ CI/CD pipelines
-⬜ System Design interviews
+✔ Build distributed backend services
+
+✔ Learn Kubernetes
+
+✔ Cloud deployment
+
+✔ Event-driven architecture
+
+✔ CI/CD pipelines
+
+✔ System Design interviews
 
 ---
 
@@ -599,7 +635,7 @@ I'm currently interested in:
 
 ---
 
-# ⚡ Fun Facts
+# Fun Facts
 
 - I enjoy turning complex ideas into simple, understandable solutions.
 - I'm passionate about continuous learning and documenting what I learn.
